@@ -1,6 +1,6 @@
 from flask import Flask
 import sys
-sys.path.append('../biz')
+sys.path.append('biz')
 import realty_handler
 
 app = Flask(__name__)

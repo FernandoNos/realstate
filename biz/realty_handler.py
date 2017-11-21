@@ -1,8 +1,9 @@
-import sys
+import sys, os
 import json
+
+sys.path.append('dao')
 from time import gmtime, strftime
 
-sys.path.append('../dao')
 import realty_api
 import data_handler
 
