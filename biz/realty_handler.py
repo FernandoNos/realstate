@@ -17,9 +17,12 @@ def updateRealty(code,obsrv):
 def updateRealties():
 	realty_codes = getRealtyCodes()
 	response = []
+	print 'realty_handler - before making the calls'
+	
 	for elem in realty_codes:
 		realty = realty_api.getRealtyDetail(elem)
 		resp = updateRealty(realty[0],realty[1])
+		print 'realty_handler - resp:'+resp
 		response.append({'Codigo':resp['Codigo'],'Mensagem':resp['message']})
 	
 	return str(response)
