@@ -5,7 +5,7 @@ import realty_handler
 
 app = Flask(__name__)
 
-@app.route('/')
+@app.route('/updateRealties')
 def index():
     return realty_handler.updateRealties()
 
