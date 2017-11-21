@@ -9,13 +9,11 @@ def listRealtyCodes():
 		if 'Codigo' in str(value):
 			codes.append(value['Codigo'])
 		else:
-			print key
 			if key == 'paginas' or key == 'pagina':
 				resp.append((str(key),str(value)))
-	resp.append(('codes',codes))
+	resp.insert(2,('codes',codes))
 	
-	print resp
-	return codes
+	return resp
 
 def getRealtyDetail(code):
 	data = json.loads(realty_dao.getRealtyDetail(code,'"Codigo","Observacoes"'))
