@@ -16,7 +16,7 @@ def updateRealty(code,obsrv):
 
 def updateRealties():
 
-	page = 3
+	page = 1
 	pages = -1
 
 	while page != pages:
