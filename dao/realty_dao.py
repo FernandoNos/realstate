@@ -1,11 +1,11 @@
 import requests
 import json
 
-def listRealties(fields):
+def listRealties(fields,page):
 	headers = {'Accept': 'application/json', 'Content-type': 'application/json'}
 
 	#Lists all the realties
-	pesquisa='{"fields": ["'+fields+'"],"paginacao":{"pagina":1,"quantidade":50}}'
+	pesquisa='{"fields": ["'+fields+'"],"paginacao":{"pagina":'+str(page)+',"quantidade":50}}'
 	url = 'http://sandbox-rest.vistahost.com.br/imoveis/listar?key=c9fdd79584fb8d369a6a579af1a8f681&showtotal=1&pesquisa='+pesquisa
 
 	response = requests.get(url,headers=headers)

@@ -1,10 +1,10 @@
 import realty_dao
 import json
-def listRealtyCodes():
+def listRealtyCodes(page):
 	codes = []
 	resp = []
 	pagination = []
-	data = json.loads(realty_dao.listRealties('Codigo'))
+	data = json.loads(realty_dao.listRealties('Codigo',page))
 	for key, value in data.items():
 		if 'Codigo' in str(value):
 			codes.append(value['Codigo'])
