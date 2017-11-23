@@ -1,6 +1,7 @@
 import sys, os
 import json
 
+
 sys.path.append('dao')
 from time import gmtime, strftime
 
@@ -12,13 +13,11 @@ def getRealtyCodes(page):
 
 def updateRealty(code,obsrv):
 	new_obsrv= data_handler.removeDate(obsrv)
-	return realty_api.updateRealty(code,new_obsrv+' '+strftime("%Y-%m-%d %H:%M:%S", gmtime()))
+	return realty_api.updateRealty(code,new_obsrv+' \n'+strftime("%Y-%m-%d %H:%M:%S", gmtime()))
 
 def updateRealties():
-
 	page = 1
 	pages = -1
-
 	while page != pages:
 		resp = getRealtyCodes(page)
 		pages = int(resp[0][1])
@@ -29,11 +28,10 @@ def updateRealties():
 		for elem in realty_codes:
 			if str(elem)=='':
 				continue
-			print elem
 			realty = realty_api.getRealtyDetail(elem)
 			resp = updateRealty(realty[0],realty[1])
 			response.append({'Codigo':resp['Codigo'],'Mensagem':resp['message']})
-		print 'updating page'
 		page = page + 1
-		print 'page updated = '+str(page)
 	return str(response)
+
+updateRealties()
