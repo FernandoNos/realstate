@@ -26,6 +26,7 @@ def updateRealties():
 		pages = int(resp[0][1])
 		page = int(resp[1][1])
 		realty_codes = resp[2][1]
+		print str(page)+' '+str(pages)
 		for elem in realty_codes:
 			if str(elem)=='':
 				continue
