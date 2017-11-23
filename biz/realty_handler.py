@@ -37,3 +37,4 @@ def updateRealties():
 		page = page + 1
 	return str(response)
 
+updateRealties()
