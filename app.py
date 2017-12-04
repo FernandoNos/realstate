@@ -1,21 +1,27 @@
 from flask import Flask
 from flask import request
 from flask import render_template
+from flask import send_from_directory
+import os
+
+import gevent.monkey
 
 import sys
 sys.path.append('biz')
 import realty_handler
 
-app = Flask(__name__,template_folder='template')
+app = Flask(__name__,template_folder='template',static_url_path='/ui')
 
 
 @app.route('/updateRealties')
 def updateRealties():
-    return realty_handler.updateRealties()
+	return realty_handler.updateRealties()
 
-@app.route('/')
+@app.route('/update')
 def index():
-	render_template('index.html')
+	root_dir = os.path.dirname(str(os.getcwd()))
+	return send_from_directory(os.path.join(root_dir, 'real_state_update','ui'), 'index.html')
+
 
 if __name__ == '__main__':
     app.run(debug=True)

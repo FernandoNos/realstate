@@ -16,8 +16,8 @@ def listRealtyCodes(page):
 	return resp
 
 def getRealtyDetail(code):
-	data = json.loads(realty_dao.getRealtyDetail(code,'"Codigo","Observacoes"'))
-	details = (data['Codigo'],data['Observacoes'])
+	data = json.loads(realty_dao.getRealtyDetail(code,'"Codigo","Descricao"'))
+	details = (data['Codigo'],data['Descricao'])
 	return details
 
 def updateRealty(code, obsrv):

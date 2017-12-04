@@ -32,7 +32,7 @@ def updateRealty(code, obsrv):
 	headers = {'Accept': 'application/json', 'Content-type': 'application/x-www-form-urlencoded'}
 
 	url = URL+'/imoveis/detalhes?key='+KEY+'&imovel='+code
-	cadastro='cadastro={"fields":{"Observacoes":"'+obsrv+'"}}'
+	cadastro='cadastro={"fields":{"Descricao":"'+obsrv+'"}}'
 	response = requests.put(url, headers=headers,data=cadastro)
 	return response.text
 
