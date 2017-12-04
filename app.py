@@ -22,7 +22,7 @@ def index():
 	root_dir = os.path.dirname(str(os.getcwd()))
 	print root_dir
 
-	return send_from_directory(os.path.join(root_dir,'ui'), 'index.html')
+	return send_from_directory(os.path.join(root_dir,'app','ui'), 'index.html')
 
 
 if __name__ == '__main__':
