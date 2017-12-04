@@ -17,7 +17,7 @@ def createFolder(page):
 
 def alreadyRun():
 	date_folder = strftime("%Y-%m-%d", gmtime())
-	print ' Already run '+str(os.path.exists('log/'+date_folder))
+	print ' Already run '+'log/'+date_folder+':'+str(os.path.exists('log/'+date_folder))
 
 	return os.path.exists('log/'+date_folder)
 
