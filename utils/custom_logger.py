@@ -1,5 +1,6 @@
 import os
 from time import gmtime, strftime
+import io
 
 def logRealty(code, obsrv, page):
 	createFolder(page)
@@ -18,7 +19,7 @@ def alreadyRun():
 	return os.path.exists('log/'+date_folder)
 
 def upsertFile(page,code,obsrv):
-	f=open('log/'+strftime("%Y-%m-%d", gmtime())+'/page_'+str(page)+'.log', 'a+')
+	f=io.open('log/'+strftime("%Y-%m-%d", gmtime())+'/page_'+str(page)+'.log', 'a+',encoding='utf8')
 	f.write(str(code)+' - Descricao antiga:'+obsrv)
 	f.write('\n--------------------------------------------------------------------------\n')
 	f.close()
