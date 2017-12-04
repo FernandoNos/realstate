@@ -9,6 +9,7 @@ def logRealty(code, obsrv, page):
 def createFolder(page):
 	date_folder = strftime("%Y-%m-%d", gmtime())
 	page_file = '/page_'+str(page)
+	print os.getcwd()
 	if not os.path.exists('log'):
 		os.makedirs('log')
 	if not os.path.exists('log/'+date_folder):
