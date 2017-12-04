@@ -24,7 +24,7 @@ def updateRealties():
 	page = 1
 	pages = 1
 	response = []
-	print 'entrei'
+
 	if not alreadyRun():
 		while page<=pages:
 			resp = getRealtyCodes(page)
@@ -41,11 +41,7 @@ def updateRealties():
 				custom_logger.logRealty(elem,realty[1],page)
 				resp = updateRealty(realty[0],realty[1])
 				response.append({'Codigo':resp['Codigo'],'Mensagem':resp['message']})
-				page = page + 1
-			return
-		return
-			
+			page = page + 1
 	print response
 	return str(response)
 
-updateRealties()
