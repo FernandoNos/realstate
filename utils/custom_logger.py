@@ -21,7 +21,7 @@ def alreadyRun():
 
 def upsertFile(page,code,obsrv):
 	f=io.open('log/'+strftime("%Y-%m-%d", gmtime())+'/page_'+str(page)+'.log', 'a+',encoding='utf8')
-	f.write(str(code)+' - Descricao antiga:'+obsrv)
-	f.write('\n--------------------------------------------------------------------------\n')
+	f.write(u+''+str(code)+' - Descricao antiga:'+obsrv)
+	f.write(u'\n--------------------------------------------------------------------------\n')
 	f.close()
 
