@@ -17,6 +17,8 @@ def createFolder(page):
 
 def alreadyRun():
 	date_folder = strftime("%Y-%m-%d", gmtime())
+	print ' Already run '+os.path.exists('log/'+date_folder)
+
 	return os.path.exists('log/'+date_folder)
 
 def upsertFile(page,code,obsrv):
