@@ -43,8 +43,8 @@ def updateRealties():
 				response.append({'Codigo':resp['Codigo'],'Mensagem':resp['message']})
 				print response
 			page = page + 1
-			return 
-		return
+			return ''
+		return ''
 	print response
 	return str(response)
 
