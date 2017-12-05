@@ -1,1 +1,1 @@
-web: gunicorn -c config.py app:app
+web: sudo gunicorn -c config.py app:app

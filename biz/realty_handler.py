@@ -21,12 +21,11 @@ def alreadyRun():
 	return custom_logger.alreadyRun()
 
 def updateRealties():
-	page = 4
-	pages = 4
+	page = 1
+	pages = 1
 	response = []
 
 	if not alreadyRun():
-		print 'starting page'
 		while page<=pages:
 			resp = getRealtyCodes(page)
 			resp1 = int(resp[0][1])
@@ -45,8 +44,6 @@ def updateRealties():
 				response.append({'Codigo':resp['Codigo'],'Mensagem':resp['message']})
 				print response
 			page = page + 1
-			return ''
-		return ''
-	print response
+
 	return str(response)
 
