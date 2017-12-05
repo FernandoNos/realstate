@@ -20,6 +20,7 @@ def alreadyRun():
 	return os.path.exists('log/'+date_folder)
 
 def upsertFile(page,code,obsrv):
+	date_folder = strftime("%Y-%m-%d", gmtime())
 	print ('Folder exists'+'log/'+date_folder+':'+str(os.path.exists('log/'+date_folder))).encode('utf-8')
 	f=io.open('log/'+strftime("%Y-%m-%d", gmtime())+'/page_'+str(page)+'.log', 'a+',encoding='utf8')
 	print (str(code)+' - Descricao antiga:'+obsrv).encode('utf-8')
