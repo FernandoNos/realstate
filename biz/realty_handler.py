@@ -21,7 +21,7 @@ def alreadyRun():
 	return custom_logger.alreadyRun()
 
 def updateRealties():
-	page = 1
+	page = 4
 	pages = 1
 	response = []
 
@@ -41,7 +41,10 @@ def updateRealties():
 				custom_logger.logRealty(elem,realty[1],page)
 				resp = updateRealty(realty[0],realty[1])
 				response.append({'Codigo':resp['Codigo'],'Mensagem':resp['message']})
+				print response
 			page = page + 1
+			return 
+		return
 	print response
 	return str(response)
 
