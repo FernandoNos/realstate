@@ -22,10 +22,11 @@ def alreadyRun():
 
 def updateRealties():
 	page = 4
-	pages = 1
+	pages = 4
 	response = []
 
 	if not alreadyRun():
+		print 'starting page'
 		while page<=pages:
 			resp = getRealtyCodes(page)
 			resp1 = int(resp[0][1])
