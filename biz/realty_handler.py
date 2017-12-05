@@ -40,10 +40,10 @@ def updateRealties():
 				realty = realty_api.getRealtyDetail(elem)
 				custom_logger.logRealty(elem,realty[1],page)
 				resp = updateRealty(realty[0],realty[1])
-				print ('This is the response '+str(resp)).encode('utf-8')
+				print ('-->'+str(resp['Codigo'])+': updated').encode('utf-8')
 				response.append({'Codigo':resp['Codigo'],'Mensagem':resp['message']})
-				print response
 			page = page + 1
+			print response
 
 	return str(response)
 
