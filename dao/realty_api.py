@@ -21,6 +21,7 @@ def getRealtyDetail(code):
 	return details
 
 def updateRealty(code, obsrv):
+	print 'going to update'
 	data = json.loads(realty_dao.updateRealty(code,obsrv))
 	return data
 	
