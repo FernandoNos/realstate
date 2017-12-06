@@ -13,10 +13,10 @@ sys.path.append('biz')
 import realty_handler
 
 app = Flask(__name__,template_folder='template',static_url_path='/ui')
-logging.basicConfig(filename=(strftime("%Y-%m-%d", gmtime())+'.log').encode('utf-8'),filemode='a+',level=logging.INFO)
 
 @app.route('/updateRealties')
 def updateRealties():
+	logging.basicConfig(filename=(strftime("%Y-%m-%d", gmtime())+'.log').encode('utf-8'),filemode='a+',level=logging.INFO)
 	return realty_handler.updateRealties()
 
 @app.route('/update')
