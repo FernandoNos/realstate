@@ -6,14 +6,14 @@ import os
 import logging
 import gevent.monkey
 from time import gmtime, strftime
+import errno
 
 import sys
 sys.path.append('biz')
 import realty_handler
 
 app = Flask(__name__,template_folder='template',static_url_path='/ui')
-logging.basicConfig(filename=('log/'+strftime("%Y-%m-%d", gmtime())+'.log').encode('utf-8'),level=logging.INFO)
-
+logging.basicConfig(filename=(strftime("%Y-%m-%d", gmtime())+'.log').encode('utf-8'),filemode='a+',level=logging.INFO)
 
 @app.route('/updateRealties')
 def updateRealties():
