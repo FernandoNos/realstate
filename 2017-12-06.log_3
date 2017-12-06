@@ -1,0 +1,48 @@
+INFO:root:Page:7,Total=28
+INFO:root:Descricao antiga(PJ2225:Apartamento 02 (dois) dormitórios, living 02 (dois) ambientes, banheiro social, cozinha e ampla área de serviço. Imóvel em bom estado de conservação e ótima localização, próximo a PUC, Avenida Bento Gonçalves e Carrefour.
+Agende sua visita com um de nossos corretores.
+INFO:root:cadastr=cadastro={"fields":{"Descricao":"Apartamento 02 (dois) dormitórios, living 02 (dois) ambientes, banheiro social, cozinha e ampla área de serviço. Imóvel em bom estado de conservação e ótima localização, próximo a PUC, Avenida Bento Gonçalves e Carrefour.
+Agende sua visita com um de nossos corretores. 
+2017-12-06"}}
+INFO:root:Response: {u'status': 200, u'message': u'Ok', u'Codigo': u'PJ2225'}
+INFO:root:
+
+------------------------------------------------------------------------
+
+INFO:root:Descricao antiga(PJ2237:Sala Comercial com 17,00m², no Centro, ótima para consultório, frente.podendo se conjugada com outra sala ao lado.
+INFO:root:cadastr=cadastro={"fields":{"Descricao":"Sala Comercial com 17,00m², no Centro, ótima para consultório, frente.podendo se conjugada com outra sala ao lado. 
+2017-12-06"}}
+INFO:root:Response: {u'status': 200, u'message': u'Ok', u'Codigo': u'PJ2237'}
+INFO:root:
+
+------------------------------------------------------------------------
+
+INFO:root:Descricao antiga(PJ2249:Apartamento 1 dormitório com vista para o guaíba, de frente, cozinha americana montada, impecável. Condomínio com serviço de camareira e lavanderia inclusos no condomínio, terraço, churrasqueira, salão de festas, sauna, piscina, gás central, portaria 24h e zelador. Vaga para locação próxima ao prédio. Ideal para executivos e estudantes.
+INFO:root:cadastr=cadastro={"fields":{"Descricao":"Apartamento 1 dormitório com vista para o guaíba, de frente, cozinha americana montada, impecável. Condomínio com serviço de camareira e lavanderia inclusos no condomínio, terraço, churrasqueira, salão de festas, sauna, piscina, gás central, portaria 24h e zelador. Vaga para locação próxima ao prédio. Ideal para executivos e estudantes. 
+2017-12-06"}}
+INFO:root:Response: {u'status': 200, u'message': u'Ok', u'Codigo': u'PJ2249'}
+INFO:root:
+
+------------------------------------------------------------------------
+
+INFO:root:Descricao antiga(PJ2195:Ótimo apartamento de 02 (dois) dormitórios na Intercap, living de 02 (dois) ambientes com sacada e vista panorâmica, banheiro social e cozinha com área de serviço separada e banheiro auxiliar. Prédio pequeno, bem conservado, com ótimo salão de festas e amplo terraço. Boa localização próximo a Av. Ipiranga e PUC. Garagem dupla e escriturada que cabe até 03 (três) carros.
+INFO:root:cadastr=cadastro={"fields":{"Descricao":"Ótimo apartamento de 02 (dois) dormitórios na Intercap, living de 02 (dois) ambientes com sacada e vista panorâmica, banheiro social e cozinha com área de serviço separada e banheiro auxiliar. Prédio pequeno, bem conservado, com ótimo salão de festas e amplo terraço. Boa localização próximo a Av. Ipiranga e PUC. Garagem dupla e escriturada que cabe até 03 (três) carros. 
+2017-12-06"}}
+INFO:root:Response: {u'status': 200, u'message': u'Ok', u'Codigo': u'PJ2195'}
+INFO:root:
+
+------------------------------------------------------------------------
+
+INFO:root:Descricao antiga(PJ2132: APARTAMENTO de   3 dormitórios de frente ,no bairro Bom Fim em Porto Alegre/RS .    tem 3  dormitórios,, 1 gabinete, 1 suíte com hidromassagem,  living amplo para 3 ambientes, , 1 lavabo, , banheiro social,lavabo, copa, cozinha, área de serviço, lavanderia ,dependência de empregada, wc auxiliar,   com área total de 254 m\",  ensolarado, ventilação ótima. Uma (1) vaga de garagem escriturada.
+  Condomínio com   portaria 24 horas, 2 elevadores, salão de festas,  gás central,  Uma (1)  vaga de garagem para visitantes   
+
+EXCELENTE LOCALIZAÇÃO.
+
+Agente sua visita!!
+INFO:root:cadastr=cadastro={"fields":{"Descricao":" APARTAMENTO de   3 dormitórios de frente ,no bairro Bom Fim em Porto Alegre/RS .    tem 3  dormitórios,, 1 gabinete, 1 suíte com hidromassagem,  living amplo para 3 ambientes, , 1 lavabo, , banheiro social,lavabo, copa, cozinha, área de serviço, lavanderia ,dependência de empregada, wc auxiliar,   com área total de 254 m\\",  ensolarado, ventilação ótima. Uma (1) vaga de garagem escriturada.
+  Condomínio com   portaria 24 horas, 2 elevadores, salão de festas,  gás central,  Uma (1)  vaga de garagem para visitantes   
+
+EXCELENTE LOCALIZAÇÃO.
+
+Agente sua visita!! 
+2017-12-06"}}

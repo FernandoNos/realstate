@@ -1,512 +1,484 @@
-INFO:root:Page:7,Total=28
-INFO:root:PJ2225 - Descricao antiga:Apartamento 02 (dois) dormitórios, living 02 (dois) ambientes, banheiro social, cozinha e ampla área de serviço. Imóvel em bom estado de conservação e ótima localização, próximo a PUC, Avenida Bento Gonçalves e Carrefour.
-Agende sua visita com um de nossos corretores.
-INFO:root:cadastr=cadastro={"fields":{"Descricao":"Apartamento 02 (dois) dormitórios, living 02 (dois) ambientes, banheiro social, cozinha e ampla área de serviço. Imóvel em bom estado de conservação e ótima localização, próximo a PUC, Avenida Bento Gonçalves e Carrefour.
-Agende sua visita com um de nossos corretores. 
+INFO:root:Page:28,Total=28
+INFO:root:Descricao antiga(PJ3962:Excelente aoartamento duplex, de um dormitório. Suíte no piso superior. Piso inferior com lavabo, cozinha com churrasqueira, living para 2 ambientes e área de serviço.
+INFO:root:cadastr=cadastro={"fields":{"Descricao":"Excelente aoartamento duplex, de um dormitório. Suíte no piso superior. Piso inferior com lavabo, cozinha com churrasqueira, living para 2 ambientes e área de serviço. 
 2017-12-06"}}
-INFO:root:Response: {u'status': 200, u'message': u'Ok', u'Codigo': u'PJ2225'}
+INFO:root:Response: {u'status': 200, u'message': u'Ok', u'Codigo': u'PJ3962'}
 INFO:root:
 
 ------------------------------------------------------------------------
 
-INFO:root:PJ2237 - Descricao antiga:Sala Comercial com 17,00m², no Centro, ótima para consultório, frente.podendo se conjugada com outra sala ao lado.
-INFO:root:cadastr=cadastro={"fields":{"Descricao":"Sala Comercial com 17,00m², no Centro, ótima para consultório, frente.podendo se conjugada com outra sala ao lado. 
+INFO:root:Descricao antiga(PJ3963:PLANEJAR IMÓVEIS ALUGA: Apartamento de 01 dormitório mobiliado com estilo rustico no Menino Deus, composto por sala ampla e bem iluminada, cozinha americana com bom espaço, área de serviço, banheiro, dormitório. Prédio próximo a mercados, farmácias, lojas, shoppings e ao polo comercial do Menino Deus e da Azenha.
+Agende hoje sua visita 
+INFO:root:cadastr=cadastro={"fields":{"Descricao":"PLANEJAR IMÓVEIS ALUGA: Apartamento de 01 dormitório mobiliado com estilo rustico no Menino Deus, composto por sala ampla e bem iluminada, cozinha americana com bom espaço, área de serviço, banheiro, dormitório. Prédio próximo a mercados, farmácias, lojas, shoppings e ao polo comercial do Menino Deus e da Azenha.
+Agende hoje sua visita  
 2017-12-06"}}
-INFO:root:Response: {u'status': 200, u'message': u'Ok', u'Codigo': u'PJ2237'}
+INFO:root:Response: {u'status': 200, u'message': u'Ok', u'Codigo': u'PJ3963'}
 INFO:root:
 
 ------------------------------------------------------------------------
 
-INFO:root:PJ2249 - Descricao antiga:Apartamento 1 dormitório com vista para o guaíba, de frente, cozinha americana montada, impecável. Condomínio com serviço de camareira e lavanderia inclusos no condomínio, terraço, churrasqueira, salão de festas, sauna, piscina, gás central, portaria 24h e zelador. Vaga para locação próxima ao prédio. Ideal para executivos e estudantes.
-INFO:root:cadastr=cadastro={"fields":{"Descricao":"Apartamento 1 dormitório com vista para o guaíba, de frente, cozinha americana montada, impecável. Condomínio com serviço de camareira e lavanderia inclusos no condomínio, terraço, churrasqueira, salão de festas, sauna, piscina, gás central, portaria 24h e zelador. Vaga para locação próxima ao prédio. Ideal para executivos e estudantes. 
+INFO:root:Descricao antiga(PJ3960:Apartamento de 3 dormitórios 1  vaga no bairro Santo Antônio em Porto Alegre/RS.
+INFO:root:cadastr=cadastro={"fields":{"Descricao":"Apartamento de 3 dormitórios 1  vaga no bairro Santo Antônio em Porto Alegre/RS. 
 2017-12-06"}}
-INFO:root:Response: {u'status': 200, u'message': u'Ok', u'Codigo': u'PJ2249'}
+INFO:root:Response: {u'status': 200, u'message': u'Ok', u'Codigo': u'PJ3960'}
 INFO:root:
 
 ------------------------------------------------------------------------
 
-INFO:root:PJ2195 - Descricao antiga:Ótimo apartamento de 02 (dois) dormitórios na Intercap, living de 02 (dois) ambientes com sacada e vista panorâmica, banheiro social e cozinha com área de serviço separada e banheiro auxiliar. Prédio pequeno, bem conservado, com ótimo salão de festas e amplo terraço. Boa localização próximo a Av. Ipiranga e PUC. Garagem dupla e escriturada que cabe até 03 (três) carros.
-INFO:root:cadastr=cadastro={"fields":{"Descricao":"Ótimo apartamento de 02 (dois) dormitórios na Intercap, living de 02 (dois) ambientes com sacada e vista panorâmica, banheiro social e cozinha com área de serviço separada e banheiro auxiliar. Prédio pequeno, bem conservado, com ótimo salão de festas e amplo terraço. Boa localização próximo a Av. Ipiranga e PUC. Garagem dupla e escriturada que cabe até 03 (três) carros. 
+INFO:root:Descricao antiga(PJ3961:PLANEJAR IMÓVEIS ALUGA: Loja comercial, no bairro Cidade Baixa. Imediações da Av. João Pessoa e R. Gen Lima e Silva. Próximo a Redenção. Com aproximadamente 150m² de área útil. Possui cozinha, área de serviço, depósito, pátio na frente, vitrine e dois banheiros. Ótima para academias, aulas de dança, centro de treinamento funcional, etc.
+Agende já sua visita! 
+
+INFO:root:cadastr=cadastro={"fields":{"Descricao":"PLANEJAR IMÓVEIS ALUGA: Loja comercial, no bairro Cidade Baixa. Imediações da Av. João Pessoa e R. Gen Lima e Silva. Próximo a Redenção. Com aproximadamente 150m² de área útil. Possui cozinha, área de serviço, depósito, pátio na frente, vitrine e dois banheiros. Ótima para academias, aulas de dança, centro de treinamento funcional, etc.
+Agende já sua visita! 
+ 
 2017-12-06"}}
-INFO:root:Response: {u'status': 200, u'message': u'Ok', u'Codigo': u'PJ2195'}
+INFO:root:Response: {u'status': 200, u'message': u'Ok', u'Codigo': u'PJ3961'}
 INFO:root:
 
 ------------------------------------------------------------------------
 
-INFO:root:PJ2132 - Descricao antiga: APARTAMENTO de   3 dormitórios de frente ,no bairro Bom Fim em Porto Alegre/RS .    tem 3  dormitórios,, 1 gabinete, 1 suíte com hidromassagem,  living amplo para 3 ambientes, , 1 lavabo, , banheiro social,lavabo, copa, cozinha, área de serviço, lavanderia ,dependência de empregada, wc auxiliar,   com área total de 254 m\",  ensolarado, ventilação ótima. Uma (1) vaga de garagem escriturada.
-  Condomínio com   portaria 24 horas, 2 elevadores, salão de festas,  gás central,  Uma (1)  vaga de garagem para visitantes   
-
-EXCELENTE LOCALIZAÇÃO.
-
-Agente sua visita!!
-INFO:root:cadastr=cadastro={"fields":{"Descricao":" APARTAMENTO de   3 dormitórios de frente ,no bairro Bom Fim em Porto Alegre/RS .    tem 3  dormitórios,, 1 gabinete, 1 suíte com hidromassagem,  living amplo para 3 ambientes, , 1 lavabo, , banheiro social,lavabo, copa, cozinha, área de serviço, lavanderia ,dependência de empregada, wc auxiliar,   com área total de 254 m\\",  ensolarado, ventilação ótima. Uma (1) vaga de garagem escriturada.
-  Condomínio com   portaria 24 horas, 2 elevadores, salão de festas,  gás central,  Uma (1)  vaga de garagem para visitantes   
-
-EXCELENTE LOCALIZAÇÃO.
-
-Agente sua visita!! 
+INFO:root:Descricao antiga(PJ3948:Amplo semi mobiliado com 02 dormitórios, sendo uma suíte com sacada.Lliving 02 ambientes, churrasqueira .Ensolarado, ventilado. 01 Vaga escriturada.Permanecerão os móveis sob medida banho e cozinha e ar condicionados.Condominio com portaria 24 horas, hall de entrada, dois elevadores, piscina, quiosque, jardim e fitness. Excelente localização!
+INFO:root:cadastr=cadastro={"fields":{"Descricao":"Amplo semi mobiliado com 02 dormitórios, sendo uma suíte com sacada.Lliving 02 ambientes, churrasqueira .Ensolarado, ventilado. 01 Vaga escriturada.Permanecerão os móveis sob medida banho e cozinha e ar condicionados.Condominio com portaria 24 horas, hall de entrada, dois elevadores, piscina, quiosque, jardim e fitness. Excelente localização! 
 2017-12-06"}}
-INFO:root:Page:7,Total=28
-INFO:root:PJ2225 - Descricao antiga:Apartamento 02 (dois) dormitórios, living 02 (dois) ambientes, banheiro social, cozinha e ampla área de serviço. Imóvel em bom estado de conservação e ótima localização, próximo a PUC, Avenida Bento Gonçalves e Carrefour.
-Agende sua visita com um de nossos corretores.
-INFO:root:cadastr=cadastro={"fields":{"Descricao":"Apartamento 02 (dois) dormitórios, living 02 (dois) ambientes, banheiro social, cozinha e ampla área de serviço. Imóvel em bom estado de conservação e ótima localização, próximo a PUC, Avenida Bento Gonçalves e Carrefour.
-Agende sua visita com um de nossos corretores. 
-2017-12-06"}}
-INFO:root:Response: {u'status': 200, u'message': u'Ok', u'Codigo': u'PJ2225'}
+INFO:root:Response: {u'status': 200, u'message': u'Ok', u'Codigo': u'PJ3948'}
 INFO:root:
 
 ------------------------------------------------------------------------
 
-INFO:root:PJ2237 - Descricao antiga:Sala Comercial com 17,00m², no Centro, ótima para consultório, frente.podendo se conjugada com outra sala ao lado.
-INFO:root:cadastr=cadastro={"fields":{"Descricao":"Sala Comercial com 17,00m², no Centro, ótima para consultório, frente.podendo se conjugada com outra sala ao lado. 
+INFO:root:Descricao antiga(PJ3949:Ótima localização! 1 dormitório, living 2 ambientes, cozinha semi mobiliada, split, banheiro social, área de serviço, 2 elevadores, portaria 24 horas, câmeras zelador, salão de festas, piscina adulta/infantil, excelente localização próximo ao Zaffari Ipiranga, Bourbon Ipiranga/Jardim Botânico e fácil acesso a Puc/Ufrgs (centro e Agronomia).
+
+INFO:root:cadastr=cadastro={"fields":{"Descricao":"Ótima localização! 1 dormitório, living 2 ambientes, cozinha semi mobiliada, split, banheiro social, área de serviço, 2 elevadores, portaria 24 horas, câmeras zelador, salão de festas, piscina adulta/infantil, excelente localização próximo ao Zaffari Ipiranga, Bourbon Ipiranga/Jardim Botânico e fácil acesso a Puc/Ufrgs (centro e Agronomia).
+ 
 2017-12-06"}}
-INFO:root:Response: {u'status': 200, u'message': u'Ok', u'Codigo': u'PJ2237'}
+INFO:root:Response: {u'status': 200, u'message': u'Ok', u'Codigo': u'PJ3949'}
 INFO:root:
 
 ------------------------------------------------------------------------
 
-INFO:root:PJ2249 - Descricao antiga:Apartamento 1 dormitório com vista para o guaíba, de frente, cozinha americana montada, impecável. Condomínio com serviço de camareira e lavanderia inclusos no condomínio, terraço, churrasqueira, salão de festas, sauna, piscina, gás central, portaria 24h e zelador. Vaga para locação próxima ao prédio. Ideal para executivos e estudantes.
-INFO:root:cadastr=cadastro={"fields":{"Descricao":"Apartamento 1 dormitório com vista para o guaíba, de frente, cozinha americana montada, impecável. Condomínio com serviço de camareira e lavanderia inclusos no condomínio, terraço, churrasqueira, salão de festas, sauna, piscina, gás central, portaria 24h e zelador. Vaga para locação próxima ao prédio. Ideal para executivos e estudantes. 
+INFO:root:Descricao antiga(PJ3964:PLANEJAR IMÓVEIS ALUGA: Apartamento com 3 dormitórios, sendo um suíte, no bairro Santana, em Porto Alegre/RS. Living para 3 ambientes, sacada com churrasqueira, cozinha e copa, lavanderia e banheiro auxiliar. Possui 2 vagas de garagem, descobertas. Prédio com portaria 24 horas.
+Agende já sua visita!
+INFO:root:cadastr=cadastro={"fields":{"Descricao":"PLANEJAR IMÓVEIS ALUGA: Apartamento com 3 dormitórios, sendo um suíte, no bairro Santana, em Porto Alegre/RS. Living para 3 ambientes, sacada com churrasqueira, cozinha e copa, lavanderia e banheiro auxiliar. Possui 2 vagas de garagem, descobertas. Prédio com portaria 24 horas.
+Agende já sua visita! 
 2017-12-06"}}
-INFO:root:Response: {u'status': 200, u'message': u'Ok', u'Codigo': u'PJ2249'}
+INFO:root:Response: {u'status': 200, u'message': u'Ok', u'Codigo': u'PJ3964'}
 INFO:root:
 
 ------------------------------------------------------------------------
 
-INFO:root:PJ2195 - Descricao antiga:Ótimo apartamento de 02 (dois) dormitórios na Intercap, living de 02 (dois) ambientes com sacada e vista panorâmica, banheiro social e cozinha com área de serviço separada e banheiro auxiliar. Prédio pequeno, bem conservado, com ótimo salão de festas e amplo terraço. Boa localização próximo a Av. Ipiranga e PUC. Garagem dupla e escriturada que cabe até 03 (três) carros.
-INFO:root:cadastr=cadastro={"fields":{"Descricao":"Ótimo apartamento de 02 (dois) dormitórios na Intercap, living de 02 (dois) ambientes com sacada e vista panorâmica, banheiro social e cozinha com área de serviço separada e banheiro auxiliar. Prédio pequeno, bem conservado, com ótimo salão de festas e amplo terraço. Boa localização próximo a Av. Ipiranga e PUC. Garagem dupla e escriturada que cabe até 03 (três) carros. 
+INFO:root:Descricao antiga(PJ3944:Excelente sala comercial desocupada, com vaga escriturada, no bairro Menino Deus. próxima ao Hospital Mãe de Deus. 
+INFO:root:cadastr=cadastro={"fields":{"Descricao":"Excelente sala comercial desocupada, com vaga escriturada, no bairro Menino Deus. próxima ao Hospital Mãe de Deus.  
 2017-12-06"}}
-INFO:root:Response: {u'status': 200, u'message': u'Ok', u'Codigo': u'PJ2195'}
+INFO:root:Response: {u'status': 200, u'message': u'Ok', u'Codigo': u'PJ3944'}
 INFO:root:
 
 ------------------------------------------------------------------------
 
-INFO:root:PJ2132 - Descricao antiga: APARTAMENTO de   3 dormitórios de frente ,no bairro Bom Fim em Porto Alegre/RS .    tem 3  dormitórios,, 1 gabinete, 1 suíte com hidromassagem,  living amplo para 3 ambientes, , 1 lavabo, , banheiro social,lavabo, copa, cozinha, área de serviço, lavanderia ,dependência de empregada, wc auxiliar,   com área total de 254 m\",  ensolarado, ventilação ótima. Uma (1) vaga de garagem escriturada.
-  Condomínio com   portaria 24 horas, 2 elevadores, salão de festas,  gás central,  Uma (1)  vaga de garagem para visitantes   
-
-EXCELENTE LOCALIZAÇÃO.
-
-Agente sua visita!!
-INFO:root:cadastr=cadastro={"fields":{"Descricao":" APARTAMENTO de   3 dormitórios de frente ,no bairro Bom Fim em Porto Alegre/RS .    tem 3  dormitórios,, 1 gabinete, 1 suíte com hidromassagem,  living amplo para 3 ambientes, , 1 lavabo, , banheiro social,lavabo, copa, cozinha, área de serviço, lavanderia ,dependência de empregada, wc auxiliar,   com área total de 254 m\\\\",  ensolarado, ventilação ótima. Uma (1) vaga de garagem escriturada.
-  Condomínio com   portaria 24 horas, 2 elevadores, salão de festas,  gás central,  Uma (1)  vaga de garagem para visitantes   
-
-EXCELENTE LOCALIZAÇÃO.
-
-Agente sua visita!! 
+INFO:root:Descricao antiga(PJ3945:No bairro SANTANA, apartamento de 1 dormitório, próximo a av Bento Gonçalves. Apartamento de 1 dormitório, living, cozinha e área de serviço. Necessita de reforma. Somente à vista.
+INFO:root:cadastr=cadastro={"fields":{"Descricao":"No bairro SANTANA, apartamento de 1 dormitório, próximo a av Bento Gonçalves. Apartamento de 1 dormitório, living, cozinha e área de serviço. Necessita de reforma. Somente à vista. 
 2017-12-06"}}
-INFO:root:Page:7,Total=28
-INFO:root:PJ2225 - Descricao antiga:Apartamento 02 (dois) dormitórios, living 02 (dois) ambientes, banheiro social, cozinha e ampla área de serviço. Imóvel em bom estado de conservação e ótima localização, próximo a PUC, Avenida Bento Gonçalves e Carrefour.
-Agende sua visita com um de nossos corretores.
-INFO:root:cadastr=cadastro={"fields":{"Descricao":"Apartamento 02 (dois) dormitórios, living 02 (dois) ambientes, banheiro social, cozinha e ampla área de serviço. Imóvel em bom estado de conservação e ótima localização, próximo a PUC, Avenida Bento Gonçalves e Carrefour.
-Agende sua visita com um de nossos corretores. 
-2017-12-06"}}
-INFO:root:Response: {u'status': 200, u'message': u'Ok', u'Codigo': u'PJ2225'}
+INFO:root:Response: {u'status': 200, u'message': u'Ok', u'Codigo': u'PJ3945'}
 INFO:root:
 
 ------------------------------------------------------------------------
 
-INFO:root:PJ2237 - Descricao antiga:Sala Comercial com 17,00m², no Centro, ótima para consultório, frente.podendo se conjugada com outra sala ao lado.
-INFO:root:cadastr=cadastro={"fields":{"Descricao":"Sala Comercial com 17,00m², no Centro, ótima para consultório, frente.podendo se conjugada com outra sala ao lado. 
+INFO:root:Descricao antiga(PJ3946:Belissimo apartamento com 3 dormitórios, sendo 1 suíte no bairro Jardim Botânico. Mobiliado, living 2 ambientes, churrasqueira, sol leste , andar alto , vista. Condomínio com  portaria 24 horas, piscina, salão de festas, fitness, play. 2 vagas de garagem. Rua arborizada e com fácil estacionamento.
+INFO:root:cadastr=cadastro={"fields":{"Descricao":"Belissimo apartamento com 3 dormitórios, sendo 1 suíte no bairro Jardim Botânico. Mobiliado, living 2 ambientes, churrasqueira, sol leste , andar alto , vista. Condomínio com  portaria 24 horas, piscina, salão de festas, fitness, play. 2 vagas de garagem. Rua arborizada e com fácil estacionamento. 
 2017-12-06"}}
-INFO:root:Response: {u'status': 200, u'message': u'Ok', u'Codigo': u'PJ2237'}
+INFO:root:Response: {u'status': 200, u'message': u'Ok', u'Codigo': u'PJ3946'}
 INFO:root:
 
 ------------------------------------------------------------------------
 
-INFO:root:PJ2249 - Descricao antiga:Apartamento 1 dormitório com vista para o guaíba, de frente, cozinha americana montada, impecável. Condomínio com serviço de camareira e lavanderia inclusos no condomínio, terraço, churrasqueira, salão de festas, sauna, piscina, gás central, portaria 24h e zelador. Vaga para locação próxima ao prédio. Ideal para executivos e estudantes.
-INFO:root:cadastr=cadastro={"fields":{"Descricao":"Apartamento 1 dormitório com vista para o guaíba, de frente, cozinha americana montada, impecável. Condomínio com serviço de camareira e lavanderia inclusos no condomínio, terraço, churrasqueira, salão de festas, sauna, piscina, gás central, portaria 24h e zelador. Vaga para locação próxima ao prédio. Ideal para executivos e estudantes. 
+INFO:root:Descricao antiga(PJ3969:PLANEJAR IMÓVEIS ALUGA:  Casa para uso comercial  ou residencial semi mobiliada ou ambos tipos juntos,  composta na parte inferior por recepção, 2 salas odontológicas, sala ginecológica, lavabo, 2 salas fisioterapêuticas, cozinha ampla com churrasqueira, varanda e área de serviço, pátio amplo com canil. Parte superior com living amplo e lareira, 2 salas ou dormitórios, banheiro. Espaço privativo com living e sacada aberta, banheiro com banheira, dormitório. A casa pode ser alugada para fins comercias, residencias ou ambas funcionalidades com habite-se para comercial e PPCI (lei kiss), vaga para 2 carros, e possibilidade de locar junto um segundo terreno para estacionamento.
+Agende sua visita hoje mesmo!
+INFO:root:cadastr=cadastro={"fields":{"Descricao":"PLANEJAR IMÓVEIS ALUGA:  Casa para uso comercial  ou residencial semi mobiliada ou ambos tipos juntos,  composta na parte inferior por recepção, 2 salas odontológicas, sala ginecológica, lavabo, 2 salas fisioterapêuticas, cozinha ampla com churrasqueira, varanda e área de serviço, pátio amplo com canil. Parte superior com living amplo e lareira, 2 salas ou dormitórios, banheiro. Espaço privativo com living e sacada aberta, banheiro com banheira, dormitório. A casa pode ser alugada para fins comercias, residencias ou ambas funcionalidades com habite-se para comercial e PPCI (lei kiss), vaga para 2 carros, e possibilidade de locar junto um segundo terreno para estacionamento.
+Agende sua visita hoje mesmo! 
 2017-12-06"}}
-INFO:root:Response: {u'status': 200, u'message': u'Ok', u'Codigo': u'PJ2249'}
+INFO:root:Response: {u'status': 200, u'message': u'Ok', u'Codigo': u'PJ3969'}
 INFO:root:
 
 ------------------------------------------------------------------------
 
-INFO:root:PJ2195 - Descricao antiga:Ótimo apartamento de 02 (dois) dormitórios na Intercap, living de 02 (dois) ambientes com sacada e vista panorâmica, banheiro social e cozinha com área de serviço separada e banheiro auxiliar. Prédio pequeno, bem conservado, com ótimo salão de festas e amplo terraço. Boa localização próximo a Av. Ipiranga e PUC. Garagem dupla e escriturada que cabe até 03 (três) carros.
-INFO:root:cadastr=cadastro={"fields":{"Descricao":"Ótimo apartamento de 02 (dois) dormitórios na Intercap, living de 02 (dois) ambientes com sacada e vista panorâmica, banheiro social e cozinha com área de serviço separada e banheiro auxiliar. Prédio pequeno, bem conservado, com ótimo salão de festas e amplo terraço. Boa localização próximo a Av. Ipiranga e PUC. Garagem dupla e escriturada que cabe até 03 (três) carros. 
+INFO:root:Descricao antiga(PJ3940:Apartamento 2 dormitórios, de frente, sacada, sol total, rua calma a 300m da Praça da Encol, 80m² privativos. Dependência de empregada completa. Duas vagas. Preço bom, em ótimo local!
+INFO:root:cadastr=cadastro={"fields":{"Descricao":"Apartamento 2 dormitórios, de frente, sacada, sol total, rua calma a 300m da Praça da Encol, 80m² privativos. Dependência de empregada completa. Duas vagas. Preço bom, em ótimo local! 
 2017-12-06"}}
-INFO:root:Response: {u'status': 200, u'message': u'Ok', u'Codigo': u'PJ2195'}
+INFO:root:Response: {u'status': 200, u'message': u'Ok', u'Codigo': u'PJ3940'}
 INFO:root:
 
 ------------------------------------------------------------------------
 
-INFO:root:PJ2132 - Descricao antiga: APARTAMENTO de   3 dormitórios de frente ,no bairro Bom Fim em Porto Alegre/RS .    tem 3  dormitórios,, 1 gabinete, 1 suíte com hidromassagem,  living amplo para 3 ambientes, , 1 lavabo, , banheiro social,lavabo, copa, cozinha, área de serviço, lavanderia ,dependência de empregada, wc auxiliar,   com área total de 254 m\",  ensolarado, ventilação ótima. Uma (1) vaga de garagem escriturada.
-  Condomínio com   portaria 24 horas, 2 elevadores, salão de festas,  gás central,  Uma (1)  vaga de garagem para visitantes   
-
-EXCELENTE LOCALIZAÇÃO.
-
-Agente sua visita!!
-INFO:root:cadastr=cadastro={"fields":{"Descricao":" APARTAMENTO de   3 dormitórios de frente ,no bairro Bom Fim em Porto Alegre/RS .    tem 3  dormitórios,, 1 gabinete, 1 suíte com hidromassagem,  living amplo para 3 ambientes, , 1 lavabo, , banheiro social,lavabo, copa, cozinha, área de serviço, lavanderia ,dependência de empregada, wc auxiliar,   com área total de 254 m\\",  ensolarado, ventilação ótima. Uma (1) vaga de garagem escriturada.
-  Condomínio com   portaria 24 horas, 2 elevadores, salão de festas,  gás central,  Uma (1)  vaga de garagem para visitantes   
-
-EXCELENTE LOCALIZAÇÃO.
-
-Agente sua visita!! 
+INFO:root:Descricao antiga(PJ3941:Apartamento de 1 dormitório na João Alfredo, bairro Cidade Baixa, ideal para estudantes. Ótima localização, perto de todos os pontos da região: Centro, Parque Redenção, Marinha, Shopping Praia de Belas, universidades, supermercados, farmácias e comércio em geral. Fácil acesso às vias de transporte. Semi mobiliado. Agende uma visita!
+INFO:root:cadastr=cadastro={"fields":{"Descricao":"Apartamento de 1 dormitório na João Alfredo, bairro Cidade Baixa, ideal para estudantes. Ótima localização, perto de todos os pontos da região: Centro, Parque Redenção, Marinha, Shopping Praia de Belas, universidades, supermercados, farmácias e comércio em geral. Fácil acesso às vias de transporte. Semi mobiliado. Agende uma visita! 
 2017-12-06"}}
-INFO:root:Page:7,Total=28
-INFO:root:PJ2225 - Descricao antiga:Apartamento 02 (dois) dormitórios, living 02 (dois) ambientes, banheiro social, cozinha e ampla área de serviço. Imóvel em bom estado de conservação e ótima localização, próximo a PUC, Avenida Bento Gonçalves e Carrefour.
-Agende sua visita com um de nossos corretores.
-INFO:root:cadastr=cadastro={"fields":{"Descricao":"Apartamento 02 (dois) dormitórios, living 02 (dois) ambientes, banheiro social, cozinha e ampla área de serviço. Imóvel em bom estado de conservação e ótima localização, próximo a PUC, Avenida Bento Gonçalves e Carrefour.
-Agende sua visita com um de nossos corretores. 
-2017-12-06"}}
-INFO:root:Response: {u'status': 200, u'message': u'Ok', u'Codigo': u'PJ2225'}
+INFO:root:Response: {u'status': 200, u'message': u'Ok', u'Codigo': u'PJ3941'}
 INFO:root:
 
 ------------------------------------------------------------------------
 
-INFO:root:PJ2237 - Descricao antiga:Sala Comercial com 17,00m², no Centro, ótima para consultório, frente.podendo se conjugada com outra sala ao lado.
-INFO:root:cadastr=cadastro={"fields":{"Descricao":"Sala Comercial com 17,00m², no Centro, ótima para consultório, frente.podendo se conjugada com outra sala ao lado. 
+INFO:root:Descricao antiga(PJ3943:PLANEJAR IMÓVEIS ALUGA: Excelente apartamento 02 dormitórios, com dependencia de empregada completa, na Zona Sul de Porto Alegre-RS. Living 02 ambientes, cozinha com pia e armário, área de serviço com tanque, banheiro social com box e banheiro auxiliar, vaga para 01 carro, piso laminado, 6º andar, fundos. Próximo à Av. Diario de Noticias. Condomínio com portaria, elevador e quadra de esporte.
+Ligue e agende sua visita!
+INFO:root:cadastr=cadastro={"fields":{"Descricao":"PLANEJAR IMÓVEIS ALUGA: Excelente apartamento 02 dormitórios, com dependencia de empregada completa, na Zona Sul de Porto Alegre-RS. Living 02 ambientes, cozinha com pia e armário, área de serviço com tanque, banheiro social com box e banheiro auxiliar, vaga para 01 carro, piso laminado, 6º andar, fundos. Próximo à Av. Diario de Noticias. Condomínio com portaria, elevador e quadra de esporte.
+Ligue e agende sua visita! 
 2017-12-06"}}
-INFO:root:Response: {u'status': 200, u'message': u'Ok', u'Codigo': u'PJ2237'}
+INFO:root:Response: {u'status': 200, u'message': u'Ok', u'Codigo': u'PJ3943'}
 INFO:root:
 
 ------------------------------------------------------------------------
 
-INFO:root:PJ2249 - Descricao antiga:Apartamento 1 dormitório com vista para o guaíba, de frente, cozinha americana montada, impecável. Condomínio com serviço de camareira e lavanderia inclusos no condomínio, terraço, churrasqueira, salão de festas, sauna, piscina, gás central, portaria 24h e zelador. Vaga para locação próxima ao prédio. Ideal para executivos e estudantes.
-INFO:root:cadastr=cadastro={"fields":{"Descricao":"Apartamento 1 dormitório com vista para o guaíba, de frente, cozinha americana montada, impecável. Condomínio com serviço de camareira e lavanderia inclusos no condomínio, terraço, churrasqueira, salão de festas, sauna, piscina, gás central, portaria 24h e zelador. Vaga para locação próxima ao prédio. Ideal para executivos e estudantes. 
+INFO:root:Descricao antiga(PJ3972:No bairro Santo Antonio , ampla casa de 5 dormitorios, com  vaga para ate 5 carros. Casa de 5 dormitorios, living 2 ambientes, escritorio, Sala de Jantar, 3  Banheiros, cozinha e lavanderia, patio, com piscina , depósito, canil  e  churrasqueira, junto ao imóvel uma edícula
+ 
+INFO:root:cadastr=cadastro={"fields":{"Descricao":"No bairro Santo Antonio , ampla casa de 5 dormitorios, com  vaga para ate 5 carros. Casa de 5 dormitorios, living 2 ambientes, escritorio, Sala de Jantar, 3  Banheiros, cozinha e lavanderia, patio, com piscina , depósito, canil  e  churrasqueira, junto ao imóvel uma edícula
+  
 2017-12-06"}}
-INFO:root:Response: {u'status': 200, u'message': u'Ok', u'Codigo': u'PJ2249'}
+INFO:root:Response: {u'status': 200, u'message': u'Ok', u'Codigo': u'PJ3972'}
 INFO:root:
 
 ------------------------------------------------------------------------
 
-INFO:root:PJ2195 - Descricao antiga:Ótimo apartamento de 02 (dois) dormitórios na Intercap, living de 02 (dois) ambientes com sacada e vista panorâmica, banheiro social e cozinha com área de serviço separada e banheiro auxiliar. Prédio pequeno, bem conservado, com ótimo salão de festas e amplo terraço. Boa localização próximo a Av. Ipiranga e PUC. Garagem dupla e escriturada que cabe até 03 (três) carros.
-INFO:root:cadastr=cadastro={"fields":{"Descricao":"Ótimo apartamento de 02 (dois) dormitórios na Intercap, living de 02 (dois) ambientes com sacada e vista panorâmica, banheiro social e cozinha com área de serviço separada e banheiro auxiliar. Prédio pequeno, bem conservado, com ótimo salão de festas e amplo terraço. Boa localização próximo a Av. Ipiranga e PUC. Garagem dupla e escriturada que cabe até 03 (três) carros. 
+INFO:root:Descricao antiga(PJ3966:PLANEJAR IMÓVEIS ALUGA: Apartamento de 2 dormitórios no bairro Medianeira, composto de living, cozinha, banheiro, dormitórios amplos, próximo a mercados paradas de ônibus e as demais facilidades do bairro. 
+Agende hoje mesmo a sua visita!
+INFO:root:cadastr=cadastro={"fields":{"Descricao":"PLANEJAR IMÓVEIS ALUGA: Apartamento de 2 dormitórios no bairro Medianeira, composto de living, cozinha, banheiro, dormitórios amplos, próximo a mercados paradas de ônibus e as demais facilidades do bairro. 
+Agende hoje mesmo a sua visita! 
 2017-12-06"}}
-INFO:root:Response: {u'status': 200, u'message': u'Ok', u'Codigo': u'PJ2195'}
+INFO:root:Response: {u'status': 200, u'message': u'Ok', u'Codigo': u'PJ3966'}
 INFO:root:
 
 ------------------------------------------------------------------------
 
-INFO:root:PJ2132 - Descricao antiga: APARTAMENTO de   3 dormitórios de frente ,no bairro Bom Fim em Porto Alegre/RS .    tem 3  dormitórios,, 1 gabinete, 1 suíte com hidromassagem,  living amplo para 3 ambientes, , 1 lavabo, , banheiro social,lavabo, copa, cozinha, área de serviço, lavanderia ,dependência de empregada, wc auxiliar,   com área total de 254 m\",  ensolarado, ventilação ótima. Uma (1) vaga de garagem escriturada.
-  Condomínio com   portaria 24 horas, 2 elevadores, salão de festas,  gás central,  Uma (1)  vaga de garagem para visitantes   
-
-EXCELENTE LOCALIZAÇÃO.
-
-Agente sua visita!!
-INFO:root:cadastr=cadastro={"fields":{"Descricao":" APARTAMENTO de   3 dormitórios de frente ,no bairro Bom Fim em Porto Alegre/RS .    tem 3  dormitórios,, 1 gabinete, 1 suíte com hidromassagem,  living amplo para 3 ambientes, , 1 lavabo, , banheiro social,lavabo, copa, cozinha, área de serviço, lavanderia ,dependência de empregada, wc auxiliar,   com área total de 254 m\\",  ensolarado, ventilação ótima. Uma (1) vaga de garagem escriturada.
-  Condomínio com   portaria 24 horas, 2 elevadores, salão de festas,  gás central,  Uma (1)  vaga de garagem para visitantes   
-
-EXCELENTE LOCALIZAÇÃO.
-
-Agente sua visita!! 
+INFO:root:Descricao antiga(PJ3967:Ótimo apartamento de 3 dormitórios no condomínio Palm Beach, com sol da manhã, living 2 ambientes, cozinha mobiliada, banheiro social, área de lazer, piscinas adulto e infantil, playground, churrasqueira e sação de festas.
+INFO:root:cadastr=cadastro={"fields":{"Descricao":"Ótimo apartamento de 3 dormitórios no condomínio Palm Beach, com sol da manhã, living 2 ambientes, cozinha mobiliada, banheiro social, área de lazer, piscinas adulto e infantil, playground, churrasqueira e sação de festas. 
 2017-12-06"}}
-INFO:root:Page:7,Total=28
-INFO:root:PJ2225 - Descricao antiga:Apartamento 02 (dois) dormitórios, living 02 (dois) ambientes, banheiro social, cozinha e ampla área de serviço. Imóvel em bom estado de conservação e ótima localização, próximo a PUC, Avenida Bento Gonçalves e Carrefour.
-Agende sua visita com um de nossos corretores.
-INFO:root:cadastr=cadastro={"fields":{"Descricao":"Apartamento 02 (dois) dormitórios, living 02 (dois) ambientes, banheiro social, cozinha e ampla área de serviço. Imóvel em bom estado de conservação e ótima localização, próximo a PUC, Avenida Bento Gonçalves e Carrefour.
-Agende sua visita com um de nossos corretores. 
-2017-12-06"}}
-INFO:root:Response: {u'status': 200, u'message': u'Ok', u'Codigo': u'PJ2225'}
+INFO:root:Response: {u'status': 200, u'message': u'Ok', u'Codigo': u'PJ3967'}
 INFO:root:
 
 ------------------------------------------------------------------------
 
-INFO:root:PJ2237 - Descricao antiga:Sala Comercial com 17,00m², no Centro, ótima para consultório, frente.podendo se conjugada com outra sala ao lado.
-INFO:root:cadastr=cadastro={"fields":{"Descricao":"Sala Comercial com 17,00m², no Centro, ótima para consultório, frente.podendo se conjugada com outra sala ao lado. 
+INFO:root:Descricao antiga(PJ3980:Terreno no bairro Santana/Partenon, com uma construção em alvenaria, medindo 8,80m x 32,5m, onde entesta a outro terreno medindo 11,9 x 35,85. Venda conjunta. Excelente para construtores.
+INFO:root:cadastr=cadastro={"fields":{"Descricao":"Terreno no bairro Santana/Partenon, com uma construção em alvenaria, medindo 8,80m x 32,5m, onde entesta a outro terreno medindo 11,9 x 35,85. Venda conjunta. Excelente para construtores. 
 2017-12-06"}}
-INFO:root:Response: {u'status': 200, u'message': u'Ok', u'Codigo': u'PJ2237'}
+INFO:root:Response: {u'status': 200, u'message': u'Ok', u'Codigo': u'PJ3980'}
 INFO:root:
 
 ------------------------------------------------------------------------
 
-INFO:root:PJ2249 - Descricao antiga:Apartamento 1 dormitório com vista para o guaíba, de frente, cozinha americana montada, impecável. Condomínio com serviço de camareira e lavanderia inclusos no condomínio, terraço, churrasqueira, salão de festas, sauna, piscina, gás central, portaria 24h e zelador. Vaga para locação próxima ao prédio. Ideal para executivos e estudantes.
-INFO:root:cadastr=cadastro={"fields":{"Descricao":"Apartamento 1 dormitório com vista para o guaíba, de frente, cozinha americana montada, impecável. Condomínio com serviço de camareira e lavanderia inclusos no condomínio, terraço, churrasqueira, salão de festas, sauna, piscina, gás central, portaria 24h e zelador. Vaga para locação próxima ao prédio. Ideal para executivos e estudantes. 
+INFO:root:Descricao antiga(PJ3981:Terreno de esquina, medindo 11,90m x 35,85m, onde entesta a outro terreno medindo 8,80m x 32,56. Venda conjunta. Excelente para construtores.
+INFO:root:cadastr=cadastro={"fields":{"Descricao":"Terreno de esquina, medindo 11,90m x 35,85m, onde entesta a outro terreno medindo 8,80m x 32,56. Venda conjunta. Excelente para construtores. 
 2017-12-06"}}
-INFO:root:Response: {u'status': 200, u'message': u'Ok', u'Codigo': u'PJ2249'}
+INFO:root:Response: {u'status': 200, u'message': u'Ok', u'Codigo': u'PJ3981'}
 INFO:root:
 
 ------------------------------------------------------------------------
 
-INFO:root:PJ2195 - Descricao antiga:Ótimo apartamento de 02 (dois) dormitórios na Intercap, living de 02 (dois) ambientes com sacada e vista panorâmica, banheiro social e cozinha com área de serviço separada e banheiro auxiliar. Prédio pequeno, bem conservado, com ótimo salão de festas e amplo terraço. Boa localização próximo a Av. Ipiranga e PUC. Garagem dupla e escriturada que cabe até 03 (três) carros.
-INFO:root:cadastr=cadastro={"fields":{"Descricao":"Ótimo apartamento de 02 (dois) dormitórios na Intercap, living de 02 (dois) ambientes com sacada e vista panorâmica, banheiro social e cozinha com área de serviço separada e banheiro auxiliar. Prédio pequeno, bem conservado, com ótimo salão de festas e amplo terraço. Boa localização próximo a Av. Ipiranga e PUC. Garagem dupla e escriturada que cabe até 03 (três) carros. 
+INFO:root:Descricao antiga(PJ3982:Ótimo ponto misto, onde está instalado um salão de beleza a 10 anos, com moradia e possui índice construtivo de mais um andar.
+INFO:root:cadastr=cadastro={"fields":{"Descricao":"Ótimo ponto misto, onde está instalado um salão de beleza a 10 anos, com moradia e possui índice construtivo de mais um andar. 
 2017-12-06"}}
-INFO:root:Response: {u'status': 200, u'message': u'Ok', u'Codigo': u'PJ2195'}
+INFO:root:Response: {u'status': 200, u'message': u'Ok', u'Codigo': u'PJ3982'}
 INFO:root:
 
 ------------------------------------------------------------------------
 
-INFO:root:PJ2132 - Descricao antiga: APARTAMENTO de   3 dormitórios de frente ,no bairro Bom Fim em Porto Alegre/RS .    tem 3  dormitórios,, 1 gabinete, 1 suíte com hidromassagem,  living amplo para 3 ambientes, , 1 lavabo, , banheiro social,lavabo, copa, cozinha, área de serviço, lavanderia ,dependência de empregada, wc auxiliar,   com área total de 254 m\",  ensolarado, ventilação ótima. Uma (1) vaga de garagem escriturada.
-  Condomínio com   portaria 24 horas, 2 elevadores, salão de festas,  gás central,  Uma (1)  vaga de garagem para visitantes   
+INFO:root:Descricao antiga(PJ3983:Excelentes salas comerciais, que podem ser unificadas e fazer um terraço com projeto assinado por arquiteto, ficam no 4º andar, na cobertura.
 
-EXCELENTE LOCALIZAÇÃO.
+Agende sua visita!
+INFO:root:cadastr=cadastro={"fields":{"Descricao":"Excelentes salas comerciais, que podem ser unificadas e fazer um terraço com projeto assinado por arquiteto, ficam no 4º andar, na cobertura.
 
-Agente sua visita!!
-INFO:root:cadastr=cadastro={"fields":{"Descricao":" APARTAMENTO de   3 dormitórios de frente ,no bairro Bom Fim em Porto Alegre\/RS .    tem 3  dormitórios,, 1 gabinete, 1 suíte com hidromassagem,  living amplo para 3 ambientes, , 1 lavabo, , banheiro social,lavabo, copa, cozinha, área de serviço, lavanderia ,dependência de empregada, wc auxiliar,   com área total de 254 m\\",  ensolarado, ventilação ótima. Uma (1) vaga de garagem escriturada.
-  Condomínio com   portaria 24 horas, 2 elevadores, salão de festas,  gás central,  Uma (1)  vaga de garagem para visitantes   
-
-EXCELENTE LOCALIZAÇÃO.
-
-Agente sua visita!! 
+Agende sua visita! 
 2017-12-06"}}
-INFO:root:Page:7,Total=28
-INFO:root:PJ2225 - Descricao antiga:Apartamento 02 (dois) dormitórios, living 02 (dois) ambientes, banheiro social, cozinha e ampla área de serviço. Imóvel em bom estado de conservação e ótima localização, próximo a PUC, Avenida Bento Gonçalves e Carrefour.
-Agende sua visita com um de nossos corretores.
-INFO:root:cadastr=cadastro={"fields":{"Descricao":"Apartamento 02 (dois) dormitórios, living 02 (dois) ambientes, banheiro social, cozinha e ampla área de serviço. Imóvel em bom estado de conservação e ótima localização, próximo a PUC, Avenida Bento Gonçalves e Carrefour.
-Agende sua visita com um de nossos corretores. 
-2017-12-06"}}
-INFO:root:Response: {u'status': 200, u'message': u'Ok', u'Codigo': u'PJ2225'}
+INFO:root:Response: {u'status': 200, u'message': u'Ok', u'Codigo': u'PJ3983'}
 INFO:root:
 
 ------------------------------------------------------------------------
 
-INFO:root:PJ2237 - Descricao antiga:Sala Comercial com 17,00m², no Centro, ótima para consultório, frente.podendo se conjugada com outra sala ao lado.
-INFO:root:cadastr=cadastro={"fields":{"Descricao":"Sala Comercial com 17,00m², no Centro, ótima para consultório, frente.podendo se conjugada com outra sala ao lado. 
+INFO:root:Descricao antiga(PJ3985:Reformado!!! Apartamento 2 dormitórios, térreo, 48,45m² privativos, living, cozinha, banho social, área de serviço, vaga de estacionamento. Condomínio com salões de festas, churrasqueiras, quadra esportes, playground e portaria 24 horas.
+Próximo a tudo, ônibus/lotação na frente, mercado, padaria.
+INFO:root:cadastr=cadastro={"fields":{"Descricao":"Reformado!!! Apartamento 2 dormitórios, térreo, 48,45m² privativos, living, cozinha, banho social, área de serviço, vaga de estacionamento. Condomínio com salões de festas, churrasqueiras, quadra esportes, playground e portaria 24 horas.
+Próximo a tudo, ônibus/lotação na frente, mercado, padaria. 
 2017-12-06"}}
-INFO:root:Response: {u'status': 200, u'message': u'Ok', u'Codigo': u'PJ2237'}
+INFO:root:Response: {u'status': 200, u'message': u'Ok', u'Codigo': u'PJ3985'}
 INFO:root:
 
 ------------------------------------------------------------------------
 
-INFO:root:PJ2249 - Descricao antiga:Apartamento 1 dormitório com vista para o guaíba, de frente, cozinha americana montada, impecável. Condomínio com serviço de camareira e lavanderia inclusos no condomínio, terraço, churrasqueira, salão de festas, sauna, piscina, gás central, portaria 24h e zelador. Vaga para locação próxima ao prédio. Ideal para executivos e estudantes.
-INFO:root:cadastr=cadastro={"fields":{"Descricao":"Apartamento 1 dormitório com vista para o guaíba, de frente, cozinha americana montada, impecável. Condomínio com serviço de camareira e lavanderia inclusos no condomínio, terraço, churrasqueira, salão de festas, sauna, piscina, gás central, portaria 24h e zelador. Vaga para locação próxima ao prédio. Ideal para executivos e estudantes. 
+INFO:root:Descricao antiga(PJ3986:Apartamento de 1 dormitório no bairro Teresópolis, em Porto Alerge/RS.
+INFO:root:cadastr=cadastro={"fields":{"Descricao":"Apartamento de 1 dormitório no bairro Teresópolis, em Porto Alerge/RS. 
 2017-12-06"}}
-INFO:root:Response: {u'status': 200, u'message': u'Ok', u'Codigo': u'PJ2249'}
+INFO:root:Response: {u'status': 200, u'message': u'Ok', u'Codigo': u'PJ3986'}
 INFO:root:
 
 ------------------------------------------------------------------------
 
-INFO:root:PJ2195 - Descricao antiga:Ótimo apartamento de 02 (dois) dormitórios na Intercap, living de 02 (dois) ambientes com sacada e vista panorâmica, banheiro social e cozinha com área de serviço separada e banheiro auxiliar. Prédio pequeno, bem conservado, com ótimo salão de festas e amplo terraço. Boa localização próximo a Av. Ipiranga e PUC. Garagem dupla e escriturada que cabe até 03 (três) carros.
-INFO:root:cadastr=cadastro={"fields":{"Descricao":"Ótimo apartamento de 02 (dois) dormitórios na Intercap, living de 02 (dois) ambientes com sacada e vista panorâmica, banheiro social e cozinha com área de serviço separada e banheiro auxiliar. Prédio pequeno, bem conservado, com ótimo salão de festas e amplo terraço. Boa localização próximo a Av. Ipiranga e PUC. Garagem dupla e escriturada que cabe até 03 (três) carros. 
+INFO:root:Descricao antiga(PJ3987:Excelente apartamento semi mobiliado, desocupado,  no bairro Santana com  2 dormitórios, sendo 01 suíte. Living  2 ambientes, cozinha americana,área de serviço. Condominio com  elevador, portaria 24 h, salão de festas, fitness. Andar alto com vista, próximo ao Hospital de Clínicas e Instituto de Cardiologia. 1 vaga escriturada.
+INFO:root:cadastr=cadastro={"fields":{"Descricao":"Excelente apartamento semi mobiliado, desocupado,  no bairro Santana com  2 dormitórios, sendo 01 suíte. Living  2 ambientes, cozinha americana,área de serviço. Condominio com  elevador, portaria 24 h, salão de festas, fitness. Andar alto com vista, próximo ao Hospital de Clínicas e Instituto de Cardiologia. 1 vaga escriturada. 
 2017-12-06"}}
-INFO:root:Response: {u'status': 200, u'message': u'Ok', u'Codigo': u'PJ2195'}
+INFO:root:Response: {u'status': 200, u'message': u'Ok', u'Codigo': u'PJ3987'}
 INFO:root:
 
 ------------------------------------------------------------------------
 
-INFO:root:PJ2132 - Descricao antiga: APARTAMENTO de   3 dormitórios de frente ,no bairro Bom Fim em Porto Alegre/RS .    tem 3  dormitórios,, 1 gabinete, 1 suíte com hidromassagem,  living amplo para 3 ambientes, , 1 lavabo, , banheiro social,lavabo, copa, cozinha, área de serviço, lavanderia ,dependência de empregada, wc auxiliar,   com área total de 254 m\",  ensolarado, ventilação ótima. Uma (1) vaga de garagem escriturada.
-  Condomínio com   portaria 24 horas, 2 elevadores, salão de festas,  gás central,  Uma (1)  vaga de garagem para visitantes   
-
-EXCELENTE LOCALIZAÇÃO.
-
-Agente sua visita!!
-INFO:root:cadastr=cadastro={"fields":{"Descricao":" APARTAMENTO de   3 dormitórios de frente ,no bairro Bom Fim em Porto Alegre\/RS .    tem 3  dormitórios,, 1 gabinete, 1 suíte com hidromassagem,  living amplo para 3 ambientes, , 1 lavabo, , banheiro social,lavabo, copa, cozinha, área de serviço, lavanderia ,dependência de empregada, wc auxiliar,   com área total de 254 m\\",  ensolarado, ventilação ótima. Uma (1) vaga de garagem escriturada.
-  Condomínio com   portaria 24 horas, 2 elevadores, salão de festas,  gás central,  Uma (1)  vaga de garagem para visitantes   
-
-EXCELENTE LOCALIZAÇÃO.
-
-Agente sua visita!! 
+INFO:root:Descricao antiga(PJ3979:Ótimo apartamento térreo de 2 dormitórios, no bairro Jardim Guanabara/Partenon em frente a praça e próximo a PUCRS  ecentral Park, living de 2 ambientes com sacada, bnaheiro social e cozinha com área de serviço, imóvel reformado e prédio revitalziado, garagem coberta e escriturada.
+INFO:root:cadastr=cadastro={"fields":{"Descricao":"Ótimo apartamento térreo de 2 dormitórios, no bairro Jardim Guanabara/Partenon em frente a praça e próximo a PUCRS  ecentral Park, living de 2 ambientes com sacada, bnaheiro social e cozinha com área de serviço, imóvel reformado e prédio revitalziado, garagem coberta e escriturada. 
 2017-12-06"}}
-INFO:root:Page:7,Total=28
-INFO:root:PJ2225 - Descricao antiga:Apartamento 02 (dois) dormitórios, living 02 (dois) ambientes, banheiro social, cozinha e ampla área de serviço. Imóvel em bom estado de conservação e ótima localização, próximo a PUC, Avenida Bento Gonçalves e Carrefour.
-Agende sua visita com um de nossos corretores.
-INFO:root:cadastr=cadastro={"fields":{"Descricao":"Apartamento 02 (dois) dormitórios, living 02 (dois) ambientes, banheiro social, cozinha e ampla área de serviço. Imóvel em bom estado de conservação e ótima localização, próximo a PUC, Avenida Bento Gonçalves e Carrefour.
-Agende sua visita com um de nossos corretores. 
-2017-12-06"}}
-INFO:root:Response: {u'status': 200, u'message': u'Ok', u'Codigo': u'PJ2225'}
+INFO:root:Response: {u'status': 200, u'message': u'Ok', u'Codigo': u'PJ3979'}
 INFO:root:
 
 ------------------------------------------------------------------------
 
-INFO:root:PJ2237 - Descricao antiga:Sala Comercial com 17,00m², no Centro, ótima para consultório, frente.podendo se conjugada com outra sala ao lado.
-INFO:root:cadastr=cadastro={"fields":{"Descricao":"Sala Comercial com 17,00m², no Centro, ótima para consultório, frente.podendo se conjugada com outra sala ao lado. 
+INFO:root:Descricao antiga(PJ3978:Ótimo apartamento, de frente. 2 dormitórios com sacada, living 2 ambientes, piso em granito, espaço gaúcho com churrasqueira, cozinha semi mobiliada, banheiros social e auxiliar, 1 vaga escriturada/coberta, elevador, gás central, jardim, circuito de câmeras, depósito individual, sol leste. Próximo a PUCRS, Ipiranga e Cristiano Fischer.
+INFO:root:cadastr=cadastro={"fields":{"Descricao":"Ótimo apartamento, de frente. 2 dormitórios com sacada, living 2 ambientes, piso em granito, espaço gaúcho com churrasqueira, cozinha semi mobiliada, banheiros social e auxiliar, 1 vaga escriturada/coberta, elevador, gás central, jardim, circuito de câmeras, depósito individual, sol leste. Próximo a PUCRS, Ipiranga e Cristiano Fischer. 
 2017-12-06"}}
-INFO:root:Response: {u'status': 200, u'message': u'Ok', u'Codigo': u'PJ2237'}
+INFO:root:Response: {u'status': 200, u'message': u'Ok', u'Codigo': u'PJ3978'}
 INFO:root:
 
 ------------------------------------------------------------------------
 
-INFO:root:PJ2249 - Descricao antiga:Apartamento 1 dormitório com vista para o guaíba, de frente, cozinha americana montada, impecável. Condomínio com serviço de camareira e lavanderia inclusos no condomínio, terraço, churrasqueira, salão de festas, sauna, piscina, gás central, portaria 24h e zelador. Vaga para locação próxima ao prédio. Ideal para executivos e estudantes.
-INFO:root:cadastr=cadastro={"fields":{"Descricao":"Apartamento 1 dormitório com vista para o guaíba, de frente, cozinha americana montada, impecável. Condomínio com serviço de camareira e lavanderia inclusos no condomínio, terraço, churrasqueira, salão de festas, sauna, piscina, gás central, portaria 24h e zelador. Vaga para locação próxima ao prédio. Ideal para executivos e estudantes. 
+INFO:root:Descricao antiga(PJ3968:EXCELENTE!!! Lindo apartamento Térreo, 1 dormitório, semi-mobiliado, living 2 ambientes, piso laminado. banheiro social, área de serviço separada, 1 vaga escriturada/descoberta, edifício com gradil, guarita, portaria 24 horas, porteiro eletrônico, zelador, churrasqueira, gás central, piscina, playground, quadra de esportes, sala de jogos, sala fitness, salão de festas, baixo valor condominial, próximo Assis Brasil/Fiergs.
+INFO:root:cadastr=cadastro={"fields":{"Descricao":"EXCELENTE!!! Lindo apartamento Térreo, 1 dormitório, semi-mobiliado, living 2 ambientes, piso laminado. banheiro social, área de serviço separada, 1 vaga escriturada/descoberta, edifício com gradil, guarita, portaria 24 horas, porteiro eletrônico, zelador, churrasqueira, gás central, piscina, playground, quadra de esportes, sala de jogos, sala fitness, salão de festas, baixo valor condominial, próximo Assis Brasil/Fiergs. 
 2017-12-06"}}
-INFO:root:Response: {u'status': 200, u'message': u'Ok', u'Codigo': u'PJ2249'}
+INFO:root:Response: {u'status': 200, u'message': u'Ok', u'Codigo': u'PJ3968'}
 INFO:root:
 
 ------------------------------------------------------------------------
 
-INFO:root:PJ2195 - Descricao antiga:Ótimo apartamento de 02 (dois) dormitórios na Intercap, living de 02 (dois) ambientes com sacada e vista panorâmica, banheiro social e cozinha com área de serviço separada e banheiro auxiliar. Prédio pequeno, bem conservado, com ótimo salão de festas e amplo terraço. Boa localização próximo a Av. Ipiranga e PUC. Garagem dupla e escriturada que cabe até 03 (três) carros.
-INFO:root:cadastr=cadastro={"fields":{"Descricao":"Ótimo apartamento de 02 (dois) dormitórios na Intercap, living de 02 (dois) ambientes com sacada e vista panorâmica, banheiro social e cozinha com área de serviço separada e banheiro auxiliar. Prédio pequeno, bem conservado, com ótimo salão de festas e amplo terraço. Boa localização próximo a Av. Ipiranga e PUC. Garagem dupla e escriturada que cabe até 03 (três) carros. 
+INFO:root:Descricao antiga(PJ3971:Na Santana, apartamento de 1 dormitório com  box na Ignacio montanha, a poucas quadras da Redenção, poucos metros da avenida João Pessoa, próximo a UFRGS, fácil acesso a PUCRS e ESPM. Com closet no dormitório, living 2 ambientes, cozinha com móveis sob medida, área de serviço separada. Condomínio com portaria 24 horas e elevador.
+INFO:root:cadastr=cadastro={"fields":{"Descricao":"Na Santana, apartamento de 1 dormitório com  box na Ignacio montanha, a poucas quadras da Redenção, poucos metros da avenida João Pessoa, próximo a UFRGS, fácil acesso a PUCRS e ESPM. Com closet no dormitório, living 2 ambientes, cozinha com móveis sob medida, área de serviço separada. Condomínio com portaria 24 horas e elevador. 
 2017-12-06"}}
-INFO:root:Response: {u'status': 200, u'message': u'Ok', u'Codigo': u'PJ2195'}
+INFO:root:Response: {u'status': 200, u'message': u'Ok', u'Codigo': u'PJ3971'}
 INFO:root:
 
 ------------------------------------------------------------------------
 
-INFO:root:PJ2132 - Descricao antiga: APARTAMENTO de   3 dormitórios de frente ,no bairro Bom Fim em Porto Alegre/RS .    tem 3  dormitórios,, 1 gabinete, 1 suíte com hidromassagem,  living amplo para 3 ambientes, , 1 lavabo, , banheiro social,lavabo, copa, cozinha, área de serviço, lavanderia ,dependência de empregada, wc auxiliar,   com área total de 254 m\",  ensolarado, ventilação ótima. Uma (1) vaga de garagem escriturada.
-  Condomínio com   portaria 24 horas, 2 elevadores, salão de festas,  gás central,  Uma (1)  vaga de garagem para visitantes   
-
-EXCELENTE LOCALIZAÇÃO.
-
-Agente sua visita!!
-INFO:root:cadastr=cadastro={"fields":{"Descricao":" APARTAMENTO de   3 dormitórios de frente ,no bairro Bom Fim em Porto Alegre\/RS .    tem 3  dormitórios,, 1 gabinete, 1 suíte com hidromassagem,  living amplo para 3 ambientes, , 1 lavabo, , banheiro social,lavabo, copa, cozinha, área de serviço, lavanderia ,dependência de empregada, wc auxiliar,   com área total de 254 m\\",  ensolarado, ventilação ótima. Uma (1) vaga de garagem escriturada.
-  Condomínio com   portaria 24 horas, 2 elevadores, salão de festas,  gás central,  Uma (1)  vaga de garagem para visitantes   
-
-EXCELENTE LOCALIZAÇÃO.
-
-Agente sua visita!! 
+INFO:root:Descricao antiga(PJ3970:Apartamento com vista panorâmica para o Guaíba,  de 3 dormitórios, no bairro Azenha/Santana, em Porto Alegre/RS. Living para 3 ambientes, banheiro social, copa, cozinha,  lavanderia, área de serviço, wc auxiliar. Condomínio  com  dois elevadores ,  portaria 24 horas.Próximo do centro de saúde modelo, supermercados, farmácias, restaurantes, escolas e da s Universidades. 
+Aceita financiamento e FGTS. Agende sua visita.
+INFO:root:cadastr=cadastro={"fields":{"Descricao":"Apartamento com vista panorâmica para o Guaíba,  de 3 dormitórios, no bairro Azenha/Santana, em Porto Alegre/RS. Living para 3 ambientes, banheiro social, copa, cozinha,  lavanderia, área de serviço, wc auxiliar. Condomínio  com  dois elevadores ,  portaria 24 horas.Próximo do centro de saúde modelo, supermercados, farmácias, restaurantes, escolas e da s Universidades. 
+Aceita financiamento e FGTS. Agende sua visita. 
 2017-12-06"}}
-INFO:root:Page:7,Total=28
-INFO:root:PJ2225 - Descricao antiga:Apartamento 02 (dois) dormitórios, living 02 (dois) ambientes, banheiro social, cozinha e ampla área de serviço. Imóvel em bom estado de conservação e ótima localização, próximo a PUC, Avenida Bento Gonçalves e Carrefour.
-Agende sua visita com um de nossos corretores.
-INFO:root:cadastr=cadastro={"fields":{"Descricao":"Apartamento 02 (dois) dormitórios, living 02 (dois) ambientes, banheiro social, cozinha e ampla área de serviço. Imóvel em bom estado de conservação e ótima localização, próximo a PUC, Avenida Bento Gonçalves e Carrefour.
-Agende sua visita com um de nossos corretores. 
-2017-12-06"}}
-INFO:root:Response: {u'status': 200, u'message': u'Ok', u'Codigo': u'PJ2225'}
+INFO:root:Response: {u'status': 200, u'message': u'Ok', u'Codigo': u'PJ3970'}
 INFO:root:
 
 ------------------------------------------------------------------------
 
-INFO:root:PJ2237 - Descricao antiga:Sala Comercial com 17,00m², no Centro, ótima para consultório, frente.podendo se conjugada com outra sala ao lado.
-INFO:root:cadastr=cadastro={"fields":{"Descricao":"Sala Comercial com 17,00m², no Centro, ótima para consultório, frente.podendo se conjugada com outra sala ao lado. 
+INFO:root:Descricao antiga(PJ3973:Apartamento "JKzão" (35m² privativos) em ótimo estado, todo reformado. 110 e 220 volts. Fácil transformar em 1 dormitório. Dois "janelões", vista para a rua Irmão José Otão. Sol direto. Bem localizado: entre Osvaldo Aranha e Avenida Independência. Elevador. Condomínio baixo.
+INFO:root:cadastr=cadastro={"fields":{"Descricao":"Apartamento \"JKzão\" (35m² privativos) em ótimo estado, todo reformado. 110 e 220 volts. Fácil transformar em 1 dormitório. Dois \"janelões\", vista para a rua Irmão José Otão. Sol direto. Bem localizado: entre Osvaldo Aranha e Avenida Independência. Elevador. Condomínio baixo. 
 2017-12-06"}}
-INFO:root:Response: {u'status': 200, u'message': u'Ok', u'Codigo': u'PJ2237'}
+INFO:root:Response: {u'status': 200, u'message': u'Ok', u'Codigo': u'PJ3973'}
 INFO:root:
 
 ------------------------------------------------------------------------
 
-INFO:root:PJ2249 - Descricao antiga:Apartamento 1 dormitório com vista para o guaíba, de frente, cozinha americana montada, impecável. Condomínio com serviço de camareira e lavanderia inclusos no condomínio, terraço, churrasqueira, salão de festas, sauna, piscina, gás central, portaria 24h e zelador. Vaga para locação próxima ao prédio. Ideal para executivos e estudantes.
-INFO:root:cadastr=cadastro={"fields":{"Descricao":"Apartamento 1 dormitório com vista para o guaíba, de frente, cozinha americana montada, impecável. Condomínio com serviço de camareira e lavanderia inclusos no condomínio, terraço, churrasqueira, salão de festas, sauna, piscina, gás central, portaria 24h e zelador. Vaga para locação próxima ao prédio. Ideal para executivos e estudantes. 
+INFO:root:Descricao antiga(PJ3958:PLANEJAR IMÓVEIS ALUGA: Apartamento de 1 dormitório, no bairro Petrópolis, em Porto Alegre/RS. Próximo da Praça da Encol. Com uma vaga. Ótima orientação solar. Peças amplas. Prédio recuado. Acesso fácil ao transporte público e recursos do bairro. Sem elevador, dois lances de escada.
+Agende já sua visita!
+
+INFO:root:cadastr=cadastro={"fields":{"Descricao":"PLANEJAR IMÓVEIS ALUGA: Apartamento de 1 dormitório, no bairro Petrópolis, em Porto Alegre/RS. Próximo da Praça da Encol. Com uma vaga. Ótima orientação solar. Peças amplas. Prédio recuado. Acesso fácil ao transporte público e recursos do bairro. Sem elevador, dois lances de escada.
+Agende já sua visita!
+ 
 2017-12-06"}}
-INFO:root:Response: {u'status': 200, u'message': u'Ok', u'Codigo': u'PJ2249'}
+INFO:root:Response: {u'status': 200, u'message': u'Ok', u'Codigo': u'PJ3958'}
 INFO:root:
 
 ------------------------------------------------------------------------
 
-INFO:root:PJ2195 - Descricao antiga:Ótimo apartamento de 02 (dois) dormitórios na Intercap, living de 02 (dois) ambientes com sacada e vista panorâmica, banheiro social e cozinha com área de serviço separada e banheiro auxiliar. Prédio pequeno, bem conservado, com ótimo salão de festas e amplo terraço. Boa localização próximo a Av. Ipiranga e PUC. Garagem dupla e escriturada que cabe até 03 (três) carros.
-INFO:root:cadastr=cadastro={"fields":{"Descricao":"Ótimo apartamento de 02 (dois) dormitórios na Intercap, living de 02 (dois) ambientes com sacada e vista panorâmica, banheiro social e cozinha com área de serviço separada e banheiro auxiliar. Prédio pequeno, bem conservado, com ótimo salão de festas e amplo terraço. Boa localização próximo a Av. Ipiranga e PUC. Garagem dupla e escriturada que cabe até 03 (três) carros. 
+INFO:root:Descricao antiga(PJ3975:Apartamento 3 dormitórios, 1 suíte, living com sala de estar e jantar, banheiro social, cozinha com área de serviço integrada, gás central, muito sol! Uma vaga escriturada. Infraestrutura total! Salão de festas, piscinas adulto e infantil, espaços gourmet e kids, academia 24 horas com professores permanentes; salão de jogos. Mas o GRANDE DESTAQUE é o preço: apenas 310 mil!
+INFO:root:cadastr=cadastro={"fields":{"Descricao":"Apartamento 3 dormitórios, 1 suíte, living com sala de estar e jantar, banheiro social, cozinha com área de serviço integrada, gás central, muito sol! Uma vaga escriturada. Infraestrutura total! Salão de festas, piscinas adulto e infantil, espaços gourmet e kids, academia 24 horas com professores permanentes; salão de jogos. Mas o GRANDE DESTAQUE é o preço: apenas 310 mil! 
 2017-12-06"}}
-INFO:root:Response: {u'status': 200, u'message': u'Ok', u'Codigo': u'PJ2195'}
+INFO:root:Response: {u'status': 200, u'message': u'Ok', u'Codigo': u'PJ3975'}
 INFO:root:
 
 ------------------------------------------------------------------------
 
-INFO:root:PJ2132 - Descricao antiga: APARTAMENTO de   3 dormitórios de frente ,no bairro Bom Fim em Porto Alegre/RS .    tem 3  dormitórios,, 1 gabinete, 1 suíte com hidromassagem,  living amplo para 3 ambientes, , 1 lavabo, , banheiro social,lavabo, copa, cozinha, área de serviço, lavanderia ,dependência de empregada, wc auxiliar,   com área total de 254 m\",  ensolarado, ventilação ótima. Uma (1) vaga de garagem escriturada.
-  Condomínio com   portaria 24 horas, 2 elevadores, salão de festas,  gás central,  Uma (1)  vaga de garagem para visitantes   
-
-EXCELENTE LOCALIZAÇÃO.
-
-Agente sua visita!!
-INFO:root:cadastr=cadastro={"fields":{"Descricao":" APARTAMENTO de   3 dormitórios de frente ,no bairro Bom Fim em Porto Alegre\/RS .    tem 3  dormitórios,, 1 gabinete, 1 suíte com hidromassagem,  living amplo para 3 ambientes, , 1 lavabo, , banheiro social,lavabo, copa, cozinha, área de serviço, lavanderia ,dependência de empregada, wc auxiliar,   com área total de 254 m\\",  ensolarado, ventilação ótima. Uma (1) vaga de garagem escriturada.
-  Condomínio com   portaria 24 horas, 2 elevadores, salão de festas,  gás central,  Uma (1)  vaga de garagem para visitantes   
-
-EXCELENTE LOCALIZAÇÃO.
-
-Agente sua visita!! 
+INFO:root:Descricao antiga(PJ3974:Apartamento de 3 dormitórios, térreo elevado, de frente, living para 2 ambientes, banheiro social, cozinha e pátio. Na Cidade Baixa/Centro, junto a rua Gen. Lima e Silva.
+INFO:root:cadastr=cadastro={"fields":{"Descricao":"Apartamento de 3 dormitórios, térreo elevado, de frente, living para 2 ambientes, banheiro social, cozinha e pátio. Na Cidade Baixa/Centro, junto a rua Gen. Lima e Silva. 
 2017-12-06"}}
-INFO:root:Page:7,Total=28
-INFO:root:PJ2225 - Descricao antiga:Apartamento 02 (dois) dormitórios, living 02 (dois) ambientes, banheiro social, cozinha e ampla área de serviço. Imóvel em bom estado de conservação e ótima localização, próximo a PUC, Avenida Bento Gonçalves e Carrefour.
-Agende sua visita com um de nossos corretores.
-INFO:root:cadastr=cadastro={"fields":{"Descricao":"Apartamento 02 (dois) dormitórios, living 02 (dois) ambientes, banheiro social, cozinha e ampla área de serviço. Imóvel em bom estado de conservação e ótima localização, próximo a PUC, Avenida Bento Gonçalves e Carrefour.
-Agende sua visita com um de nossos corretores. 
-2017-12-06"}}
-INFO:root:Response: {u'status': 200, u'message': u'Ok', u'Codigo': u'PJ2225'}
+INFO:root:Response: {u'status': 200, u'message': u'Ok', u'Codigo': u'PJ3974'}
 INFO:root:
 
 ------------------------------------------------------------------------
 
-INFO:root:PJ2237 - Descricao antiga:Sala Comercial com 17,00m², no Centro, ótima para consultório, frente.podendo se conjugada com outra sala ao lado.
-INFO:root:cadastr=cadastro={"fields":{"Descricao":"Sala Comercial com 17,00m², no Centro, ótima para consultório, frente.podendo se conjugada com outra sala ao lado. 
+INFO:root:Descricao antiga(PJ3977:Excelente vista! Novo! 2 dormitórios living 2 ambientes, porcelanato em todo apartamento, cozinha semi mobiliada, junker, banheiro social, água quente com medidor individual, 1 vaga coberta/escriturada, elevador, portaria 24 horas,  piscina, churrasqueira, espaço gourmet, quadra de esportes, em frente a FAPA.
+INFO:root:cadastr=cadastro={"fields":{"Descricao":"Excelente vista! Novo! 2 dormitórios living 2 ambientes, porcelanato em todo apartamento, cozinha semi mobiliada, junker, banheiro social, água quente com medidor individual, 1 vaga coberta/escriturada, elevador, portaria 24 horas,  piscina, churrasqueira, espaço gourmet, quadra de esportes, em frente a FAPA. 
 2017-12-06"}}
-INFO:root:Response: {u'status': 200, u'message': u'Ok', u'Codigo': u'PJ2237'}
+INFO:root:Response: {u'status': 200, u'message': u'Ok', u'Codigo': u'PJ3977'}
 INFO:root:
 
 ------------------------------------------------------------------------
 
-INFO:root:PJ2249 - Descricao antiga:Apartamento 1 dormitório com vista para o guaíba, de frente, cozinha americana montada, impecável. Condomínio com serviço de camareira e lavanderia inclusos no condomínio, terraço, churrasqueira, salão de festas, sauna, piscina, gás central, portaria 24h e zelador. Vaga para locação próxima ao prédio. Ideal para executivos e estudantes.
-INFO:root:cadastr=cadastro={"fields":{"Descricao":"Apartamento 1 dormitório com vista para o guaíba, de frente, cozinha americana montada, impecável. Condomínio com serviço de camareira e lavanderia inclusos no condomínio, terraço, churrasqueira, salão de festas, sauna, piscina, gás central, portaria 24h e zelador. Vaga para locação próxima ao prédio. Ideal para executivos e estudantes. 
+INFO:root:Descricao antiga(PJ3976:PLANEJAR IMÓVEIS ALUGA: Excelente apartamento de  03 dormitórios com armários, sendo 01 suíte, no bairro Moinhos de Vento, em Porto Alegre-RS.  Living com 02 ambientes sendo, 01 sala de jantar individualizada, lavabo, banheiro social com box, cozinha com pia, geladeira, armários, área de serviço com tanque, dependência de empregada, banheiro auxiliar, 01 vaga de garagem dupla. Condomínio com portaria 24hs, elevadores. Próximo ao Parcão / Zaffari da Bordini e Grêmio Náutico União. 
+Ligue e agende sua visita hoje mesmo!
+
+INFO:root:cadastr=cadastro={"fields":{"Descricao":"PLANEJAR IMÓVEIS ALUGA: Excelente apartamento de  03 dormitórios com armários, sendo 01 suíte, no bairro Moinhos de Vento, em Porto Alegre-RS.  Living com 02 ambientes sendo, 01 sala de jantar individualizada, lavabo, banheiro social com box, cozinha com pia, geladeira, armários, área de serviço com tanque, dependência de empregada, banheiro auxiliar, 01 vaga de garagem dupla. Condomínio com portaria 24hs, elevadores. Próximo ao Parcão / Zaffari da Bordini e Grêmio Náutico União. 
+Ligue e agende sua visita hoje mesmo!
+ 
 2017-12-06"}}
-INFO:root:Response: {u'status': 200, u'message': u'Ok', u'Codigo': u'PJ2249'}
+INFO:root:Response: {u'status': 200, u'message': u'Ok', u'Codigo': u'PJ3976'}
 INFO:root:
 
 ------------------------------------------------------------------------
 
-INFO:root:PJ2195 - Descricao antiga:Ótimo apartamento de 02 (dois) dormitórios na Intercap, living de 02 (dois) ambientes com sacada e vista panorâmica, banheiro social e cozinha com área de serviço separada e banheiro auxiliar. Prédio pequeno, bem conservado, com ótimo salão de festas e amplo terraço. Boa localização próximo a Av. Ipiranga e PUC. Garagem dupla e escriturada que cabe até 03 (três) carros.
-INFO:root:cadastr=cadastro={"fields":{"Descricao":"Ótimo apartamento de 02 (dois) dormitórios na Intercap, living de 02 (dois) ambientes com sacada e vista panorâmica, banheiro social e cozinha com área de serviço separada e banheiro auxiliar. Prédio pequeno, bem conservado, com ótimo salão de festas e amplo terraço. Boa localização próximo a Av. Ipiranga e PUC. Garagem dupla e escriturada que cabe até 03 (três) carros. 
+INFO:root:Descricao antiga(PJ3953:PLANEJAR IMÓVEIS ALUGA: Apartamento de 1 dormitório, no bairro Azenha, em Porto Alegre/RS. Imediações do Zaffari Ipiranga. Living para 2 ambientes, cozinha semi mobiliada, split, banheiro social e área de serviço. Prédio com 2 elevadores, portaria 24 horas, câmeras, zelador, salão de festas e piscina adulta/infantil. Excelente localização, com fácil acesso a PUC e UFRGS.
+Agende já sua visita!
+
+INFO:root:cadastr=cadastro={"fields":{"Descricao":"PLANEJAR IMÓVEIS ALUGA: Apartamento de 1 dormitório, no bairro Azenha, em Porto Alegre/RS. Imediações do Zaffari Ipiranga. Living para 2 ambientes, cozinha semi mobiliada, split, banheiro social e área de serviço. Prédio com 2 elevadores, portaria 24 horas, câmeras, zelador, salão de festas e piscina adulta/infantil. Excelente localização, com fácil acesso a PUC e UFRGS.
+Agende já sua visita!
+ 
 2017-12-06"}}
-INFO:root:Response: {u'status': 200, u'message': u'Ok', u'Codigo': u'PJ2195'}
+INFO:root:Response: {u'status': 200, u'message': u'Ok', u'Codigo': u'PJ3953'}
 INFO:root:
 
 ------------------------------------------------------------------------
 
-INFO:root:PJ2132 - Descricao antiga: APARTAMENTO de   3 dormitórios de frente ,no bairro Bom Fim em Porto Alegre/RS .    tem 3  dormitórios,, 1 gabinete, 1 suíte com hidromassagem,  living amplo para 3 ambientes, , 1 lavabo, , banheiro social,lavabo, copa, cozinha, área de serviço, lavanderia ,dependência de empregada, wc auxiliar,   com área total de 254 m\",  ensolarado, ventilação ótima. Uma (1) vaga de garagem escriturada.
-  Condomínio com   portaria 24 horas, 2 elevadores, salão de festas,  gás central,  Uma (1)  vaga de garagem para visitantes   
-
-EXCELENTE LOCALIZAÇÃO.
-
-Agente sua visita!!
-INFO:root:cadastr=cadastro={"fields":{"Descricao":" APARTAMENTO de   3 dormitórios de frente ,no bairro Bom Fim em Porto Alegre\/RS .    tem 3  dormitórios,, 1 gabinete, 1 suíte com hidromassagem,  living amplo para 3 ambientes, , 1 lavabo, , banheiro social,lavabo, copa, cozinha, área de serviço, lavanderia ,dependência de empregada, wc auxiliar,   com área total de 254 m\",  ensolarado, ventilação ótima. Uma (1) vaga de garagem escriturada.
-  Condomínio com   portaria 24 horas, 2 elevadores, salão de festas,  gás central,  Uma (1)  vaga de garagem para visitantes   
-
-EXCELENTE LOCALIZAÇÃO.
-
-Agente sua visita!! 
+INFO:root:Descricao antiga(PJ3952:Casa no bairro Partenon, terreno medindo 10,00m x 37,00m, 3 dormitórios, living, cozinha, área de serviço, dependência completa, banheiro social, pátio com churrasqueira, piscina, vagas para 5 carros, lareira, em ótima localização.
+INFO:root:cadastr=cadastro={"fields":{"Descricao":"Casa no bairro Partenon, terreno medindo 10,00m x 37,00m, 3 dormitórios, living, cozinha, área de serviço, dependência completa, banheiro social, pátio com churrasqueira, piscina, vagas para 5 carros, lareira, em ótima localização. 
 2017-12-06"}}
-INFO:root:Response: {u'status': 200, u'message': u'Ok', u'Codigo': u'PJ2132'}
+INFO:root:Response: {u'status': 200, u'message': u'Ok', u'Codigo': u'PJ3952'}
 INFO:root:
 
 ------------------------------------------------------------------------
 
-INFO:root:PJ2235 - Descricao antiga:Garagem, 01 (uma) vaga, coberta, com 12m², bairro Rio Branco. Existe outra vaga ao lado.
-Agende sua visita com um de nossos corretores.
-INFO:root:cadastr=cadastro={"fields":{"Descricao":"Garagem, 01 (uma) vaga, coberta, com 12m², bairro Rio Branco. Existe outra vaga ao lado.
-Agende sua visita com um de nossos corretores. 
+INFO:root:Descricao antiga(PJ3951:Casa sobrado no bairro Partenon, terreno medindo 5,50m x 27,20m, 4 dormitórios sendo 1 suíte, 2 banheiros sociais, living, cozinha ampla, área de serviço, dependência, wc auxiliar, terraço com churrasqueira. No pavimento superior, estar íntimo, sacada. Sol da manhã e tarde, 2 vagas. Aceita dação de imóvel no bairro com 2 dormitórios e uma vaga, até R$250.000,00. Também aceita permuta por imóvel em Santa Catarina.
+INFO:root:cadastr=cadastro={"fields":{"Descricao":"Casa sobrado no bairro Partenon, terreno medindo 5,50m x 27,20m, 4 dormitórios sendo 1 suíte, 2 banheiros sociais, living, cozinha ampla, área de serviço, dependência, wc auxiliar, terraço com churrasqueira. No pavimento superior, estar íntimo, sacada. Sol da manhã e tarde, 2 vagas. Aceita dação de imóvel no bairro com 2 dormitórios e uma vaga, até R$250.000,00. Também aceita permuta por imóvel em Santa Catarina. 
 2017-12-06"}}
-INFO:root:Response: {u'status': 200, u'message': u'Ok', u'Codigo': u'PJ2235'}
+INFO:root:Response: {u'status': 200, u'message': u'Ok', u'Codigo': u'PJ3951'}
 INFO:root:
 
 ------------------------------------------------------------------------
 
-INFO:root:PJ2131 - Descricao antiga:Apartamento de 2 dormitórios, no bairro Medianeira. Amplo! Com sacada, cozinha em estilo americano, com churrasqueira, banheiro social e área de serviço. Prédio pequeno com 8 apartamentos. Garagem por convenção. Próximo a Oscar Pereira. Agende sua visita!
-INFO:root:cadastr=cadastro={"fields":{"Descricao":"Apartamento de 2 dormitórios, no bairro Medianeira. Amplo! Com sacada, cozinha em estilo americano, com churrasqueira, banheiro social e área de serviço. Prédio pequeno com 8 apartamentos. Garagem por convenção. Próximo a Oscar Pereira. Agende sua visita! 
+INFO:root:Descricao antiga(PJ3957:PLANEJAR IMÓVEIS ALUGA: Loja comercial, no bairro Rio Branco, em Porto Alegre/RS. Próxima à Protásio Alves. Excelente! Possui 3 vitrines com vidro blindex 10 mm, porta dupla, gesso, sanca, depósito e cozinha. Muito iluminada e ventilada. 
+Agende já sua visita!
+INFO:root:cadastr=cadastro={"fields":{"Descricao":"PLANEJAR IMÓVEIS ALUGA: Loja comercial, no bairro Rio Branco, em Porto Alegre/RS. Próxima à Protásio Alves. Excelente! Possui 3 vitrines com vidro blindex 10 mm, porta dupla, gesso, sanca, depósito e cozinha. Muito iluminada e ventilada. 
+Agende já sua visita! 
 2017-12-06"}}
-INFO:root:Response: {u'status': 200, u'message': u'Ok', u'Codigo': u'PJ2131'}
+INFO:root:Response: {u'status': 200, u'message': u'Ok', u'Codigo': u'PJ3957'}
 INFO:root:
 
 ------------------------------------------------------------------------
 
-INFO:root:PJ2136 - Descricao antiga:Apartamento 02 dormitórios, no bairro Partenon/Intercap, próximo a Avenida Ipiranga, PUC e UFRGS. Living 2 ambientes, banheiro social, cozinha e área de serviço. Prédio pequeno bem conservado em frente a praça. Garagem escriturada em condomínio de garagens a 40 metros do prédio.
-Obs.pode ser vendido sem a garagem por
-R$ 20.000,00 a menos
-
-Venha conferir!!
-INFO:root:cadastr=cadastro={"fields":{"Descricao":"Apartamento 02 dormitórios, no bairro Partenon\/Intercap, próximo a Avenida Ipiranga, PUC e UFRGS. Living 2 ambientes, banheiro social, cozinha e área de serviço. Prédio pequeno bem conservado em frente a praça. Garagem escriturada em condomínio de garagens a 40 metros do prédio.
-Obs.pode ser vendido sem a garagem por
-R$ 20.000,00 a menos
-
-Venha conferir!! 
+INFO:root:Descricao antiga(PJ3956:PLANEJAR IMÓVEIS ALUGA:  Apartamento/JK no bairro Cidade Baixa, em Porto Alegre/RS. Living/dormitório, banheiro social com box, cozinha com pia, área de serviço  com tanque, um lance de escada. Situação lateral, orientação solar oeste. Próximo a Rua Venâncio Aires. 
+Ligue e agende sua vista hoje mesmo!
+INFO:root:cadastr=cadastro={"fields":{"Descricao":"PLANEJAR IMÓVEIS ALUGA:  Apartamento/JK no bairro Cidade Baixa, em Porto Alegre/RS. Living/dormitório, banheiro social com box, cozinha com pia, área de serviço  com tanque, um lance de escada. Situação lateral, orientação solar oeste. Próximo a Rua Venâncio Aires. 
+Ligue e agende sua vista hoje mesmo! 
 2017-12-06"}}
-INFO:root:Response: {u'status': 200, u'message': u'Ok', u'Codigo': u'PJ2136'}
+INFO:root:Response: {u'status': 200, u'message': u'Ok', u'Codigo': u'PJ3956'}
 INFO:root:
 
 ------------------------------------------------------------------------
 
-INFO:root:PJ2137 - Descricao antiga:Apartamento 02 dormitórios, bairro Menino Deus .
-Ótimo apartamento, ensolarado, ventilado com segurança 24 horas, living 2 ambientes, cozinha montada, área de serviço, 02 ar-condicionados, banheiro, muito bem conservado e reformado, área de lazer, jardim, churrasqueira.
-Agente sua visita!
-INFO:root:cadastr=cadastro={"fields":{"Descricao":"Apartamento 02 dormitórios, bairro Menino Deus .
-Ótimo apartamento, ensolarado, ventilado com segurança 24 horas, living 2 ambientes, cozinha montada, área de serviço, 02 ar-condicionados, banheiro, muito bem conservado e reformado, área de lazer, jardim, churrasqueira.
-Agente sua visita! 
+INFO:root:Descricao antiga(PJ3955:Casa residencial com  160 m², composta com 02 pavimentos sendo no térreo 02 salas, lavabo com despensa, cozinha, banheiro auxiliar, área de serviço, no 2º pavimento 03 amplos dormitórios e 2 sacadas sendo uma aberta e uma fechada, banheiro, pátio amplo com espaço para 4 carros, espaço gourmet com churrasqueira. Próximo a Av. João Pessoa e a Jeronimo de Ornélas, bancos, farmácias, escolas, mercados e as demais facilidades da região.
+Agende hoje mesmo a sua vista! 
+INFO:root:cadastr=cadastro={"fields":{"Descricao":"Casa residencial com  160 m², composta com 02 pavimentos sendo no térreo 02 salas, lavabo com despensa, cozinha, banheiro auxiliar, área de serviço, no 2º pavimento 03 amplos dormitórios e 2 sacadas sendo uma aberta e uma fechada, banheiro, pátio amplo com espaço para 4 carros, espaço gourmet com churrasqueira. Próximo a Av. João Pessoa e a Jeronimo de Ornélas, bancos, farmácias, escolas, mercados e as demais facilidades da região.
+Agende hoje mesmo a sua vista!  
 2017-12-06"}}
-INFO:root:Response: {u'status': 200, u'message': u'Ok', u'Codigo': u'PJ2137'}
+INFO:root:Response: {u'status': 200, u'message': u'Ok', u'Codigo': u'PJ3955'}
 INFO:root:
 
 ------------------------------------------------------------------------
 
-INFO:root:PJ2134 - Descricao antiga:Apartamento 2 dormitórios, 01 suíte, andar alto, sanca de gesso. Condomínio com piscinas adulto e infantil, academia  e demais infraestruturas, 01 vaga de garagem.
-
-Agende sua visita!!
-INFO:root:cadastr=cadastro={"fields":{"Descricao":"Apartamento 2 dormitórios, 01 suíte, andar alto, sanca de gesso. Condomínio com piscinas adulto e infantil, academia  e demais infraestruturas, 01 vaga de garagem.
-
-Agende sua visita!! 
+INFO:root:Descricao antiga(PJ3954:Excelente loja comercial, próxima à Protásio Alves, 3 vitrines com vidro blindex 10 mm, porta dupla, gesso, sanca, depósito e cozinha. Muito iluminada e ventilada. 
+INFO:root:cadastr=cadastro={"fields":{"Descricao":"Excelente loja comercial, próxima à Protásio Alves, 3 vitrines com vidro blindex 10 mm, porta dupla, gesso, sanca, depósito e cozinha. Muito iluminada e ventilada.  
 2017-12-06"}}
-INFO:root:Response: {u'status': 200, u'message': u'Ok', u'Codigo': u'PJ2134'}
+INFO:root:Response: {u'status': 200, u'message': u'Ok', u'Codigo': u'PJ3954'}
 INFO:root:
 
 ------------------------------------------------------------------------
 
-INFO:root:PJ2135 - Descricao antiga:Apartamento de 2 (dois) dormitórios, no bairro Jardim Botânico. Com living para 2 ambientes, cozinha, área de serviço e banheiro social. Excelente localização, próximo ao  shopping  Bourbon e as Avenidas Bento Gonçalves  e Ipiranga. Com garagem ao lado para locar. Um lance de escada.
-
-Agende já sua visita!!
-INFO:root:cadastr=cadastro={"fields":{"Descricao":"Apartamento de 2 (dois) dormitórios, no bairro Jardim Botânico. Com living para 2 ambientes, cozinha, área de serviço e banheiro social. Excelente localização, próximo ao  shopping  Bourbon e as Avenidas Bento Gonçalves  e Ipiranga. Com garagem ao lado para locar. Um lance de escada.
-
-Agende já sua visita!! 
+INFO:root:Descricao antiga(PJ3939:Apartamento de 1 dormitório, amplo, 50m² privativos, de frente, vista, 2 elevadores, ótimo prédio, na Andradas, em frente aos quartéis e a uma quadra da Igreja das  Dores. Bom preço!
+INFO:root:cadastr=cadastro={"fields":{"Descricao":"Apartamento de 1 dormitório, amplo, 50m² privativos, de frente, vista, 2 elevadores, ótimo prédio, na Andradas, em frente aos quartéis e a uma quadra da Igreja das  Dores. Bom preço! 
 2017-12-06"}}
-INFO:root:Response: {u'status': 200, u'message': u'Ok', u'Codigo': u'PJ2135'}
+INFO:root:Response: {u'status': 200, u'message': u'Ok', u'Codigo': u'PJ3939'}
 INFO:root:
 
 ------------------------------------------------------------------------
 
-INFO:root:PJ2115 - Descricao antiga:Casa Residencial no bairro Santana, possui 3 pavimentos, no térreo garagem para 4 carros e pátio. Primeiro pavimento possui living 2 ambientes, copa cozinha, área de serviço, 1 dormitório e banheiro social. Segundo piso 3 dormitórios, banheiro social, terraço. Bem localizada, podendo ser residencial, comercial ou construir.Terreno com  399,30 m² (12,10 x 33,00). Aceita permuta.
-Agende uma visita com um de nossos corretores.
-INFO:root:cadastr=cadastro={"fields":{"Descricao":"Casa Residencial no bairro Santana, possui 3 pavimentos, no térreo garagem para 4 carros e pátio. Primeiro pavimento possui living 2 ambientes, copa cozinha, área de serviço, 1 dormitório e banheiro social. Segundo piso 3 dormitórios, banheiro social, terraço. Bem localizada, podendo ser residencial, comercial ou construir.Terreno com  399,30 m² (12,10 x 33,00). Aceita permuta.
-Agende uma visita com um de nossos corretores. 
+INFO:root:Descricao antiga(PJ3935:Apartamento espetacular, localizado em frente ao Parque Germânia, tem 2 dormitórios, sendo uma suíte, vista para o Shopping Iguatemi e Bourbon Country. Infra completa com piscina panorâmica, piscina aquecida, quadra de tênis, saunas, academia completa, salão de festas e de jogos, portaria 24 horas, playground, port cochère, vaga para visitantes, zelador, etc.
+
+Agende sua visita!
+INFO:root:cadastr=cadastro={"fields":{"Descricao":"Apartamento espetacular, localizado em frente ao Parque Germânia, tem 2 dormitórios, sendo uma suíte, vista para o Shopping Iguatemi e Bourbon Country. Infra completa com piscina panorâmica, piscina aquecida, quadra de tênis, saunas, academia completa, salão de festas e de jogos, portaria 24 horas, playground, port cochère, vaga para visitantes, zelador, etc.
+
+Agende sua visita! 
+2017-12-06"}}
+INFO:root:Response: {u'status': 200, u'message': u'Ok', u'Codigo': u'PJ3935'}
+INFO:root:
+
+------------------------------------------------------------------------
+
+INFO:root:Descricao antiga(PJ3934:PLANEJAR IMÓVEIS ALUGA: Apartamento térreo de 1 dormitório, no bairro Santa Cecília. Imediações da R. Silva Só e Av. Ipiranga. Possui vaga de garagem, descoberta. Cozinha americana com móveis fixos. Living amplo para 2 ambientes. Possui quintal com churrasqueira nos fundos. Sem taxa de condomínio.
+Agende já sua visita!
+INFO:root:cadastr=cadastro={"fields":{"Descricao":"PLANEJAR IMÓVEIS ALUGA: Apartamento térreo de 1 dormitório, no bairro Santa Cecília. Imediações da R. Silva Só e Av. Ipiranga. Possui vaga de garagem, descoberta. Cozinha americana com móveis fixos. Living amplo para 2 ambientes. Possui quintal com churrasqueira nos fundos. Sem taxa de condomínio.
+Agende já sua visita! 
+2017-12-06"}}
+INFO:root:Response: {u'status': 200, u'message': u'Ok', u'Codigo': u'PJ3934'}
+INFO:root:
+
+------------------------------------------------------------------------
+
+INFO:root:Descricao antiga(PJ3937:Excelente cobertura! 03 dormitórios, living 02 ambientes, copa-cozinha, banheiro social, área de serviço, dependência com banheiro auxiliar (parte inferior), terraço com piscina, deck, churrasqueira. Linda vista. 02 vagas de garagem, cobertas/escrituradas. Próximo a PUC e Ipiranga.
+INFO:root:cadastr=cadastro={"fields":{"Descricao":"Excelente cobertura! 03 dormitórios, living 02 ambientes, copa-cozinha, banheiro social, área de serviço, dependência com banheiro auxiliar (parte inferior), terraço com piscina, deck, churrasqueira. Linda vista. 02 vagas de garagem, cobertas/escrituradas. Próximo a PUC e Ipiranga. 
+2017-12-06"}}
+INFO:root:Response: {u'status': 200, u'message': u'Ok', u'Codigo': u'PJ3937'}
+INFO:root:
+
+------------------------------------------------------------------------
+
+INFO:root:Descricao antiga(PJ3936:PLANEJAR IMÓVEIS ALUGA: Apartamento com 01 dormitório, no bairro Petrópolis, em Porto Alegre-RS. Imóvel  bem iluminado, living ,cozinha com armários, banheiro social com box ,área de serviço com maquina de lavar ,churrasqueira, piso laminado. Prédio com elevador. Ótima localização, próximo a todos os recursos do bairro Petrópolis.
+Ligue e agende sua visita!
+INFO:root:cadastr=cadastro={"fields":{"Descricao":"PLANEJAR IMÓVEIS ALUGA: Apartamento com 01 dormitório, no bairro Petrópolis, em Porto Alegre-RS. Imóvel  bem iluminado, living ,cozinha com armários, banheiro social com box ,área de serviço com maquina de lavar ,churrasqueira, piso laminado. Prédio com elevador. Ótima localização, próximo a todos os recursos do bairro Petrópolis.
+Ligue e agende sua visita! 
+2017-12-06"}}
+INFO:root:Response: {u'status': 200, u'message': u'Ok', u'Codigo': u'PJ3936'}
+INFO:root:
+
+------------------------------------------------------------------------
+
+INFO:root:Descricao antiga(PJ3931:Ótima casa em condomínio fechado. Apenas 4 anos, estado de nova! Toda mobiliada, 4 splits, churrasqueira no pátio, coz. americana, 3 pisos, amplo sótão.  160m² privativos. Sol total. Duas vagas. Vista para o rio ! Veja as fotos e....venha !
+
+
+INFO:root:cadastr=cadastro={"fields":{"Descricao":"Ótima casa em condomínio fechado. Apenas 4 anos, estado de nova! Toda mobiliada, 4 splits, churrasqueira no pátio, coz. americana, 3 pisos, amplo sótão.  160m² privativos. Sol total. Duas vagas. Vista para o rio ! Veja as fotos e....venha !
+
+ 
+2017-12-06"}}
+INFO:root:Response: {u'status': 200, u'message': u'Ok', u'Codigo': u'PJ3931'}
+INFO:root:
+
+------------------------------------------------------------------------
+
+INFO:root:Descricao antiga(PJ3933:Impecável apartamento 2 dormitórios, térreo, living, sala de jantar, cozinha e lavanderia,. Banho social e auxiliar. Muito claro e iluminado.2 pátios abetos. Próximo a todas as conveniências do bairro e meios de trasporte.
+INFO:root:cadastr=cadastro={"fields":{"Descricao":"Impecável apartamento 2 dormitórios, térreo, living, sala de jantar, cozinha e lavanderia,. Banho social e auxiliar. Muito claro e iluminado.2 pátios abetos. Próximo a todas as conveniências do bairro e meios de trasporte. 
+2017-12-06"}}
+INFO:root:Response: {u'status': 200, u'message': u'Ok', u'Codigo': u'PJ3933'}
+INFO:root:
+
+------------------------------------------------------------------------
+
+INFO:root:Descricao antiga(PJ3932:Apartamento de 2 dormitórios no bairro Auxiliadora/Mon t Serrat, em rua tranquila e arborizada, próximo a todos os recursos do bairro. Mobiliado com móveis de primeira linha, desocupado, pronto para morar! Cozinha montada com eletrodomésticos Brastemp; banheiro com balcão, gabinete em mármore, espelhos, luminária e box de vidro; lavanderia com instalações hidráulicas (opção de segundo banheiro); persianas novas (design moderno). Hall de entrada, jardim, gás central, salão de festas na cobertura com cozinha e churrasqueira. Analisa dação.
+INFO:root:cadastr=cadastro={"fields":{"Descricao":"Apartamento de 2 dormitórios no bairro Auxiliadora/Mon t Serrat, em rua tranquila e arborizada, próximo a todos os recursos do bairro. Mobiliado com móveis de primeira linha, desocupado, pronto para morar! Cozinha montada com eletrodomésticos Brastemp; banheiro com balcão, gabinete em mármore, espelhos, luminária e box de vidro; lavanderia com instalações hidráulicas (opção de segundo banheiro); persianas novas (design moderno). Hall de entrada, jardim, gás central, salão de festas na cobertura com cozinha e churrasqueira. Analisa dação. 
+2017-12-06"}}
+INFO:root:Response: {u'status': 200, u'message': u'Ok', u'Codigo': u'PJ3932'}
+INFO:root:
+
+------------------------------------------------------------------------
+
+INFO:root:
+
+###################################################################
+
+
+INFO:root:Page:28,Total=28
+INFO:root:Descricao antiga(PJ3962:Excelente aoartamento duplex, de um dormitório. Suíte no piso superior. Piso inferior com lavabo, cozinha com churrasqueira, living para 2 ambientes e área de serviço.
+INFO:root:cadastr=cadastro={"fields":{"Descricao":"Excelente aoartamento duplex, de um dormitório. Suíte no piso superior. Piso inferior com lavabo, cozinha com churrasqueira, living para 2 ambientes e área de serviço. 
+2017-12-06"}}
+INFO:root:Response: {u'status': 200, u'message': u'Ok', u'Codigo': u'PJ3962'}
+INFO:root:
+
+------------------------------------------------------------------------
+
+INFO:root:Descricao antiga(PJ3963:PLANEJAR IMÓVEIS ALUGA: Apartamento de 01 dormitório mobiliado com estilo rustico no Menino Deus, composto por sala ampla e bem iluminada, cozinha americana com bom espaço, área de serviço, banheiro, dormitório. Prédio próximo a mercados, farmácias, lojas, shoppings e ao polo comercial do Menino Deus e da Azenha.
+Agende hoje sua visita 
+INFO:root:cadastr=cadastro={"fields":{"Descricao":"PLANEJAR IMÓVEIS ALUGA: Apartamento de 01 dormitório mobiliado com estilo rustico no Menino Deus, composto por sala ampla e bem iluminada, cozinha americana com bom espaço, área de serviço, banheiro, dormitório. Prédio próximo a mercados, farmácias, lojas, shoppings e ao polo comercial do Menino Deus e da Azenha.
+Agende hoje sua visita  
+2017-12-06"}}
+INFO:root:Response: {u'status': 200, u'message': u'Ok', u'Codigo': u'PJ3963'}
+INFO:root:
+
+------------------------------------------------------------------------
+
+INFO:root:Descricao antiga(PJ3960:Apartamento de 3 dormitórios 1  vaga no bairro Santo Antônio em Porto Alegre/RS.
+INFO:root:cadastr=cadastro={"fields":{"Descricao":"Apartamento de 3 dormitórios 1  vaga no bairro Santo Antônio em Porto Alegre/RS. 
 2017-12-06"}}
