@@ -22,7 +22,7 @@ def updateRealties():
 @app.route('/update')
 def index():
 	root_dir = os.path.dirname(str(os.getcwd()))
-	return send_from_directory(os.path.join(root_dir,'real_state_update','ui'), 'index.html')
+	return send_from_directory(os.path.join(root_dir,'app','ui'), 'index.html')
 
 
 if __name__ == '__main__':
