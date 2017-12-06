@@ -6,7 +6,6 @@ sys.path.append('dao')
 sys.path.append('utils')
 from time import gmtime, strftime
 
-import custom_logger
 import realty_api
 import data_handler
 import logging
@@ -17,9 +16,6 @@ def getRealtyCodes(page):
 def updateRealty(code,obsrv):
 	new_obsrv= data_handler.removeDate(obsrv)
 	return realty_api.updateRealty(u''+code,new_obsrv+' \n'+strftime("%Y-%m-%d", gmtime()))
-
-def alreadyRun():
-	return custom_logger.alreadyRun()
 
 def updateRealties():
 	page = 1
@@ -40,7 +36,6 @@ def updateRealties():
 			if str(elem)=='':
 				continue
 			realty = realty_api.getRealtyDetail(elem)
-			custom_logger.logRealty(elem,realty[1],page)
 			resp = updateRealty(realty[0],realty[1])
 			print ('-->'+str(resp['Codigo'])+': updated').encode('utf-8')
 			logging.info(('Response: '+str(resp)).encode('utf-8'))
