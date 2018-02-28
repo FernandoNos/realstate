@@ -15,7 +15,7 @@ def getRealtyCodes(page):
 
 def updateRealty(code,obsrv):
 	new_obsrv= data_handler.removeDate(obsrv)
-	return realty_api.updateRealty(u''+code,new_obsrv+' \n'+strftime("%Y-%m-%d", gmtime()))
+	return realty_api.updateRealty(u''+code,new_obsrv+' \nUltima atualizacao:'+strftime("%Y-%m-%d", gmtime()))
 
 def updateRealties():
 	page = 1
