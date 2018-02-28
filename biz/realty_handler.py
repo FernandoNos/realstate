@@ -37,6 +37,7 @@ def updateRealties():
 				continue
 			realty = realty_api.getRealtyDetail(elem)
 			logging.info(('Descricao antiga('+realty[0]+':'+realty[1]).encode('utf-8'))
+			print('Updating '+realty[0].encode('utf-8'))
 			resp = updateRealty(realty[0],realty[1])
 			print ('-->'+str(resp['Codigo'])+': updated').encode('utf-8')
 			logging.info(('Response: '+str(resp)).encode('utf-8'))
