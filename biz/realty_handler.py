@@ -18,7 +18,7 @@ def updateRealty(code,obsrv):
 	return realty_api.updateRealty(u''+code,new_obsrv+' \nUltima atualizacao:'+strftime("%Y-%m-%d", gmtime()))
 
 def updateRealties():
-	page = 1
+	page = 22
 	pages = 1
 	response = []
 
@@ -41,7 +41,7 @@ def updateRealties():
 			resp = updateRealty(realty[0],realty[1])
 			print (('Response: '+str(resp)).encode('utf-8'))
 			
-			if resp['status']=='200':
+			if resp['status']==200:
 				print ('-->'+str(resp['Codigo'])+': updated').encode('utf-8')
 				logging.info(('Response: '+str(resp)).encode('utf-8'))
 				logging.info(('\n\n------------------------------------------------------------------------\n').encode('utf-8'))
