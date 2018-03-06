@@ -19,7 +19,7 @@ def updateRealty(code,obsrv):
 
 def updateRealties():
 	page = 22
-	pages = 1
+	pages = 22
 	response = []
 
 	
@@ -48,6 +48,7 @@ def updateRealties():
 				response.append({'Codigo':resp['Codigo'],'Mensagem':resp['message']})
 			else:
 				print ('-->Error:'+'Request:'+str(realty)+'Response:'+str(resp)).encode('utf-8')
+
 		page = page + 1
 		logging.info(('\n\n###################################################################\n\n').encode('utf-8'))
 
