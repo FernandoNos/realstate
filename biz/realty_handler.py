@@ -40,10 +40,14 @@ def updateRealties():
 			print('Updating '+realty[0].encode('utf-8'))
 			resp = updateRealty(realty[0],realty[1])
 			print (('Response: '+str(resp)).encode('utf-8'))
-			#print ('-->'+str(resp['Codigo'])+': updated').encode('utf-8')
-			logging.info(('Response: '+str(resp)).encode('utf-8'))
-			logging.info(('\n\n------------------------------------------------------------------------\n').encode('utf-8'))
-			response.append({'Codigo':resp['Codigo'],'Mensagem':resp['message']})
+			
+			if resp['status']=='200':
+				print ('-->'+str(resp['Codigo'])+': updated').encode('utf-8')
+				logging.info(('Response: '+str(resp)).encode('utf-8'))
+				logging.info(('\n\n------------------------------------------------------------------------\n').encode('utf-8'))
+				response.append({'Codigo':resp['Codigo'],'Mensagem':resp['message']})
+			else:
+				print ('-->Error:'+'Request:'+str(realty)+'Response:'+str(resp)).encode('utf-8')
 		page = page + 1
 		logging.info(('\n\n###################################################################\n\n').encode('utf-8'))
 
