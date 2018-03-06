@@ -18,8 +18,8 @@ def updateRealty(code,obsrv):
 	return realty_api.updateRealty(u''+code,new_obsrv+' \nUltima atualizacao:'+strftime("%Y-%m-%d", gmtime()))
 
 def updateRealties():
-	page = 22
-	pages = 22
+	page = 1
+	pages = 1
 	response = []
 
 	
